@@ -2115,6 +2115,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2593
+      title: 'Kara no Kyoukai Movie 1: Fukan Fuukei'
+      type: movie
+      tvdbid: 82099
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 2787
       title: Shakugan no Shana II (Second)
       type: tv
@@ -2214,6 +2223,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 3782
+      title: 'Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)'
+      type: movie
+      tvdbid: 82099
+      tvdbseason: 1
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 3783
+      title: 'Kara no Kyoukai Movie 3: Tsuukaku Zanryuu'
+      type: movie
+      tvdbid: 82099
+      tvdbseason: 1
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 3841
       title: Chi's Sweet Home
       type: tv
@@ -2301,6 +2328,24 @@ AnimeMap:
       tvdbid: 83277
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4280
+      title: 'Kara no Kyoukai Movie 4: Garan no Dou'
+      type: movie
+      tvdbid: 82099
+      tvdbseason: 1
+      start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4282
+      title: 'Kara no Kyoukai Movie 5: Mujun Rasen'
+      type: movie
+      tvdbid: 82099
+      tvdbseason: 1
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -2472,6 +2517,24 @@ AnimeMap:
       tvdbid: 79839
       tvdbseason: 0
       start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5204
+      title: 'Kara no Kyoukai Movie 6: Boukyaku Rokuon'
+      type: movie
+      tvdbid: 82099
+      tvdbseason: 1
+      start: 6
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5205
+      title: 'Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)'
+      type: movie
+      tvdbid: 82099
+      tvdbseason: 1
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -2682,6 +2745,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 6624
+      title: 'Kara no Kyoukai Remix: Gate of Seventh Heaven'
+      type: movie
+      tvdbid: 82099
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 6702
       title: Fairy Tail
       type: tv
@@ -2766,6 +2838,15 @@ AnimeMap:
       title: Bakemonogatari Recap
       type: tv_special
       tvdbid: 102261
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6954
+      title: 'Kara no Kyoukai Movie 8: Shuushou'
+      type: special
+      tvdbid: 82099
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -3562,6 +3643,15 @@ AnimeMap:
       tvdbid: 262954
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 14807
+      title: 'Kara no Kyoukai Movie: Mirai Fukuin'
+      type: movie
+      tvdbid: 82099
+      tvdbseason: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -4377,6 +4467,15 @@ AnimeMap:
       tvdbid: 114921
       tvdbseason: 0
       start: 9
+      useMapping: false
+      animeMapping: []
+
+    - malid: 22763
+      title: 'Kara no Kyoukai Movie: Mirai Fukuin - Extra Chorus'
+      type: special
+      tvdbid: 82099
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
