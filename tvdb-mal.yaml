@@ -2088,6 +2088,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2486
+      title: Takahashi Rumiko Gekijou
+      type: tv
+      tvdbid: 85067
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 2490
       title: 'One Piece: Mezase! Kaizoku Yakyuu Ou'
       type: movie
