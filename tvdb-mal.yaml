@@ -5721,6 +5721,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31610
+      title: Kyoukai no Rinne 2nd Season
+      type: tv
+      tvdbid: 289903
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 31636
       title: Dagashi Kashi
       type: tv
@@ -6312,6 +6321,15 @@ AnimeMap:
       tvdbid: 269319
       tvdbseason: 0
       start: 24
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34106
+      title: Kyoukai no Rinne 3rd Season
+      type: tv
+      tvdbid: 289903
+      tvdbseason: 3
+      start: 0
       useMapping: false
       animeMapping: []
 
