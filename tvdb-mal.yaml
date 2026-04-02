@@ -1,4 +1,43 @@
 AnimeMap:
+    - malid: 1
+      title: Cowboy Bebop
+      type: tv
+      tvdbid: 76885
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            1: 2
+            2: 3
+            3: 7
+            4: 8
+            5: 9
+            6: 10
+            7: 11
+            8: 12
+            9: 13
+            10: 14
+            11: 15
+            12: 18
+            13: 1
+            14: 4
+            15: 5
+            16: 6
+            17: 16
+            18: 17
+            19: 19
+            20: 20
+            21: 21
+            22: 22
+            23: 23
+            24: 24
+            25: 25
+            26: 26
+
     - malid: 5
       title: 'Cowboy Bebop: Tengoku no Tobira'
       type: movie
