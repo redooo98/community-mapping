@@ -4248,6 +4248,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1024
+      title: Weiß Kreuz OVA
+      type: ova
+      tvdbid: 72922
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 1048
       title: 'The SoulTaker: Tamashii-gari'
       type: tv
