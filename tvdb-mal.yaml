@@ -12113,6 +12113,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 37109
+      title: 'Hakumei to Mikochi: Neji to Bed to Irori to Bakuchi'
+      type: special
+      tvdbid: 339276
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 37151
       title: Marvel Future Avengers 2nd Season
       type: tv
