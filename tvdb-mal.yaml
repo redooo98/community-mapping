@@ -4218,6 +4218,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1015
+      title: 'Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi'
+      type: special
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 1024
       title: Weiß Kreuz OVA
       type: ova
@@ -10036,6 +10045,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31931
+      title: Full Metal Panic! Invisible Victory
+      type: tv
+      tvdbid: 78914
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 31933
       title: 'JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai'
       type: tv
@@ -11825,6 +11843,33 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36342
+      title: 'Full Metal Panic! Movie 1: Boy Meets Girl'
+      type: movie
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36343
+      title: 'Full Metal Panic! Movie 2: One Night Stand'
+      type: movie
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36344
+      title: 'Full Metal Panic! Movie 3: Into the Blue'
+      type: movie
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 8
+      useMapping: false
+      animeMapping: []
+
     - malid: 36407
       title: Kenja no Mago
       type: tv
@@ -13004,6 +13049,15 @@ AnimeMap:
       tvdbid: 355966
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 38149
+      title: Full Metal Panic! Invisible Victory Intermission
+      type: tv_special
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
