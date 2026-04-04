@@ -1,6 +1,15 @@
 AnimeMap:
+    - malid: 1
+      title: Cowboy Bebop
+      type: tv
+      tvdbid: 76885
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 5
-      title: 'Cowboy Bebop: Tengoku no Tobira'
+      title: "Cowboy Bebop: Tengoku no Tobira"
       type: movie
       tvdbid: 76885
       tvdbseason: 0
@@ -54,7 +63,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 17
-      title: 'Hungry Heart: Wild Striker'
+      title: "Hungry Heart: Wild Striker"
       type: tv
       tvdbid: 81003
       tvdbseason: 1
@@ -88,16 +97,16 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 36
-        - tvdbseason: 3
-          start: 84
-        - tvdbseason: 4
-          start: 132
-        - tvdbseason: 5
-          start: 180
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 36
+          - tvdbseason: 3
+            start: 84
+          - tvdbseason: 4
+            start: 132
+          - tvdbseason: 5
+            start: 180
 
     - malid: 21
       title: One Piece
@@ -107,50 +116,82 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 9
-        - tvdbseason: 3
-          start: 31
-        - tvdbseason: 4
-          start: 48
-        - tvdbseason: 5
-          start: 61
-        - tvdbseason: 6
-          start: 70
-        - tvdbseason: 7
-          start: 92
-        - tvdbseason: 8
-          start: 131
-        - tvdbseason: 9
-          start: 144
-        - tvdbseason: 10
-          start: 196
-        - tvdbseason: 11
-          start: 227
-        - tvdbseason: 12
-          start: 326
-        - tvdbseason: 13
-          start: 382
-        - tvdbseason: 14
-          start: 482
-        - tvdbseason: 15
-          start: 517
-        - tvdbseason: 16
-          start: 579
-        - tvdbseason: 17
-          start: 629
-        - tvdbseason: 18
-          start: 747
-        - tvdbseason: 19
-          start: 780
-        - tvdbseason: 20
-          start: 878
-        - tvdbseason: 21
-          start: 892
-        - tvdbseason: 22
-          start: 1086
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 9
+          - tvdbseason: 3
+            start: 31
+          - tvdbseason: 4
+            start: 48
+          - tvdbseason: 5
+            start: 61
+          - tvdbseason: 6
+            start: 70
+          - tvdbseason: 7
+            start: 92
+          - tvdbseason: 8
+            start: 131
+          - tvdbseason: 9
+            start: 144
+          - tvdbseason: 10
+            start: 196
+          - tvdbseason: 11
+            start: 227
+          - tvdbseason: 12
+            start: 326
+          - tvdbseason: 13
+            start: 382
+          - tvdbseason: 14
+            start: 482
+          - tvdbseason: 15
+            start: 517
+          - tvdbseason: 16
+            start: 579
+          - tvdbseason: 17
+            start: 629
+          - tvdbseason: 18
+            start: 747
+          - tvdbseason: 19
+            start: 780
+          - tvdbseason: 20
+            start: 878
+          - tvdbseason: 21
+            start: 892
+          - tvdbseason: 22
+            start: 1086
+
+    - malid: 22
+      title: Tennis no Oujisama
+      type: tv
+      tvdbid: 73532
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+          - tvdbseason: 1
+            start: 1
+          - tvdbseason: 2
+            start: 27
+          - tvdbseason: 3
+            start: 54
+          - tvdbseason: 4
+            start: 76
+          - tvdbseason: 5
+            start: 102
+          - tvdbseason: 6
+            start: 129
+          - tvdbseason: 7
+            start: 166
+
+    - malid: 25
+      title: Sunabouzu
+      type: tv
+      tvdbid: 80242
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
     - malid: 26
       title: Texhnolyze
@@ -207,7 +248,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62
-      title: 'D.C.: Da Capo'
+      title: "D.C.: Da Capo"
       type: tv
       tvdbid: 84187
       tvdbseason: 1
@@ -225,7 +266,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 65
-      title: 'Rozen Maiden: Träumend'
+      title: "Rozen Maiden: Träumend"
       type: tv
       tvdbid: 75411
       tvdbseason: 2
@@ -243,7 +284,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 67
-      title: 'Basilisk: Kouga Ninpou Chou'
+      title: "Basilisk: Kouga Ninpou Chou"
       type: tv
       tvdbid: 78881
       tvdbseason: 1
@@ -279,7 +320,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 75
-      title: 'Soukyuu no Fafner: Dead Aggressor'
+      title: "Soukyuu no Fafner: Dead Aggressor"
       type: tv
       tvdbid: 81110
       tvdbseason: 1
@@ -324,7 +365,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 81
-      title: 'Kidou Senshi Gundam: Dai 08 MS Shoutai'
+      title: "Kidou Senshi Gundam: Dai 08 MS Shoutai"
       type: ova
       tvdbid: 80784
       tvdbseason: 1
@@ -333,7 +374,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 82
-      title: 'Kidou Senshi Gundam 0080: Pocket no Naka no Sensou'
+      title: "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou"
       type: ova
       tvdbid: 80785
       tvdbseason: 1
@@ -342,7 +383,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 84
-      title: 'Kidou Senshi Gundam 0083: Stardust Memory'
+      title: "Kidou Senshi Gundam 0083: Stardust Memory"
       type: ova
       tvdbid: 80783
       tvdbseason: 1
@@ -531,7 +572,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 137
-      title: 'Hunter x Hunter: Original Video Animation'
+      title: "Hunter x Hunter: Original Video Animation"
       type: ova
       tvdbid: 79076
       tvdbseason: 2
@@ -540,7 +581,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 138
-      title: 'Hunter x Hunter: Greed Island'
+      title: "Hunter x Hunter: Greed Island"
       type: ova
       tvdbid: 79076
       tvdbseason: 3
@@ -549,7 +590,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 139
-      title: 'Hunter x Hunter: Greed Island Final'
+      title: "Hunter x Hunter: Greed Island Final"
       type: ova
       tvdbid: 79076
       tvdbseason: 4
@@ -612,7 +653,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 148
-      title: 'Kita e.: Diamond Dust Drops'
+      title: "Kita e.: Diamond Dust Drops"
       type: tv
       tvdbid: 81961
       tvdbseason: 1
@@ -628,14 +669,14 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 14
-        - tvdbseason: 3
-          start: 26
-        - tvdbseason: 4
-          start: 39
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 14
+          - tvdbseason: 3
+            start: 26
+          - tvdbseason: 4
+            start: 39
 
     - malid: 153
       title: Juuni Kokuki
@@ -672,20 +713,20 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 19
-        - tvdbseason: 3
-          start: 41
-        - tvdbseason: 4
-          start: 65
-        - tvdbseason: 5
-          start: 89
-        - tvdbseason: 6
-          start: 113
-        - tvdbseason: 7
-          start: 137
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 19
+          - tvdbseason: 3
+            start: 41
+          - tvdbseason: 4
+            start: 65
+          - tvdbseason: 5
+            start: 89
+          - tvdbseason: 6
+            start: 113
+          - tvdbseason: 7
+            start: 137
 
     - malid: 223
       title: Dragon Ball
@@ -695,18 +736,18 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 1
-        - tvdbseason: 2
-          start: 14
-        - tvdbseason: 3
-          start: 29
-        - tvdbseason: 4
-          start: 69
-        - tvdbseason: 5
-          start: 102
-        - tvdbseason: 6
-          start: 133
+          - tvdbseason: 1
+            start: 1
+          - tvdbseason: 2
+            start: 14
+          - tvdbseason: 3
+            start: 29
+          - tvdbseason: 4
+            start: 69
+          - tvdbseason: 5
+            start: 102
+          - tvdbseason: 6
+            start: 133
 
     - malid: 225
       title: Dragon Ball GT
@@ -716,12 +757,12 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 1
-        - tvdbseason: 2
-          start: 17
-        - tvdbseason: 3
-          start: 41
+          - tvdbseason: 1
+            start: 1
+          - tvdbseason: 2
+            start: 17
+          - tvdbseason: 3
+            start: 41
 
     - malid: 232
       title: Cardcaptor Sakura
@@ -731,12 +772,12 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 1
-        - tvdbseason: 2
-          start: 36
-        - tvdbseason: 3
-          start: 47
+          - tvdbseason: 1
+            start: 1
+          - tvdbseason: 2
+            start: 36
+          - tvdbseason: 3
+            start: 47
 
     - malid: 249
       title: InuYasha
@@ -746,18 +787,18 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 28
-        - tvdbseason: 3
-          start: 55
-        - tvdbseason: 4
-          start: 83
-        - tvdbseason: 5
-          start: 111
-        - tvdbseason: 6
-          start: 139
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 28
+          - tvdbseason: 3
+            start: 55
+          - tvdbseason: 4
+            start: 83
+          - tvdbseason: 5
+            start: 111
+          - tvdbseason: 6
+            start: 139
 
     - malid: 269
       title: Bleach
@@ -767,38 +808,38 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 21
-        - tvdbseason: 3
-          start: 42
-        - tvdbseason: 4
-          start: 64
-        - tvdbseason: 5
-          start: 92
-        - tvdbseason: 6
-          start: 110
-        - tvdbseason: 7
-          start: 132
-        - tvdbseason: 8
-          start: 152
-        - tvdbseason: 9
-          start: 168
-        - tvdbseason: 10
-          start: 190
-        - tvdbseason: 11
-          start: 206
-        - tvdbseason: 12
-          start: 213
-        - tvdbseason: 13
-          start: 230
-        - tvdbseason: 14
-          start: 266
-        - tvdbseason: 15
-          start: 317
-        - tvdbseason: 16
-          start: 343
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 21
+          - tvdbseason: 3
+            start: 42
+          - tvdbseason: 4
+            start: 64
+          - tvdbseason: 5
+            start: 92
+          - tvdbseason: 6
+            start: 110
+          - tvdbseason: 7
+            start: 132
+          - tvdbseason: 8
+            start: 152
+          - tvdbseason: 9
+            start: 168
+          - tvdbseason: 10
+            start: 190
+          - tvdbseason: 11
+            start: 206
+          - tvdbseason: 12
+            start: 213
+          - tvdbseason: 13
+            start: 230
+          - tvdbseason: 14
+            start: 266
+          - tvdbseason: 15
+            start: 317
+          - tvdbseason: 16
+            start: 343
 
     - malid: 272
       title: Noir
@@ -810,7 +851,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 276
-      title: 'Mahoromatic: Automatic Maiden'
+      title: "Mahoromatic: Automatic Maiden"
       type: tv
       tvdbid: 79035
       tvdbseason: 1
@@ -819,7 +860,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 277
-      title: 'Mahoromatic: Motto Utsukushii Mono'
+      title: "Mahoromatic: Motto Utsukushii Mono"
       type: tv
       tvdbid: 79035
       tvdbseason: 2
@@ -882,7 +923,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 372
-      title: 'Cardcaptor Sakura Movie 2: Fuuin Sareta Card'
+      title: "Cardcaptor Sakura Movie 2: Fuuin Sareta Card"
       type: movie
       tvdbid: 70668
       tvdbseason: 0
@@ -900,7 +941,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 405
-      title: 'Blood: The Last Vampire'
+      title: "Blood: The Last Vampire"
       type: movie
       tvdbid: 78960
       tvdbseason: 0
@@ -909,7 +950,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 418
-      title: 'Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!'
+      title: "Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!"
       type: movie
       tvdbid: 76932
       tvdbseason: 0
@@ -927,7 +968,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 449
-      title: 'InuYasha Movie 4: Guren no Houraijima'
+      title: "InuYasha Movie 4: Guren no Houraijima"
       type: movie
       tvdbid: 71361
       tvdbseason: 0
@@ -936,7 +977,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 450
-      title: 'InuYasha Movie 2: Kagami no Naka no Mugenjou'
+      title: "InuYasha Movie 2: Kagami no Naka no Mugenjou"
       type: movie
       tvdbid: 71361
       tvdbseason: 0
@@ -945,7 +986,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 451
-      title: 'InuYasha Movie 3: Tenka Hadou no Ken'
+      title: "InuYasha Movie 3: Tenka Hadou no Ken"
       type: movie
       tvdbid: 71361
       tvdbseason: 0
@@ -954,7 +995,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 452
-      title: 'InuYasha Movie 1: Toki wo Koeru Omoi'
+      title: "InuYasha Movie 1: Toki wo Koeru Omoi"
       type: movie
       tvdbid: 71361
       tvdbseason: 0
@@ -981,7 +1022,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 460
-      title: 'One Piece Movie 02: Nejimaki-jima no Daibouken'
+      title: "One Piece Movie 02: Nejimaki-jima no Daibouken"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -990,7 +1031,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 461
-      title: 'One Piece Movie 03: Chinjuu-jima no Chopper Oukoku'
+      title: "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -999,7 +1040,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 462
-      title: 'One Piece Movie 04: Dead End no Bouken'
+      title: "One Piece Movie 04: Dead End no Bouken"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -1008,7 +1049,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 463
-      title: 'One Piece Movie 05: Norowareta Seiken'
+      title: "One Piece Movie 05: Norowareta Seiken"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -1017,7 +1058,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 464
-      title: 'One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima'
+      title: "One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -1026,7 +1067,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 465
-      title: 'One Piece Movie 07: Karakuri-jou no Mecha Kyohei'
+      title: "One Piece Movie 07: Karakuri-jou no Mecha Kyohei"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -1035,7 +1076,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 466
-      title: 'One Piece: Taose! Kaizoku Ganzack'
+      title: "One Piece: Taose! Kaizoku Ganzack"
       type: ova
       tvdbid: 81797
       tvdbseason: 0
@@ -1053,7 +1094,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 502
-      title: 'Dragon Ball Movie 1: Shen Long no Densetsu'
+      title: "Dragon Ball Movie 1: Shen Long no Densetsu"
       type: movie
       tvdbid: 76666
       tvdbseason: 0
@@ -1069,10 +1110,208 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 1
-        - tvdbseason: 2
-          start: 14
+          - tvdbseason: 1
+            start: 1
+          - tvdbseason: 2
+            start: 14
+
+    - malid: 586
+      title: "Ayakashi: Japanese Classic Horror"
+      type: tv
+      tvdbid: 79202
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 592
+      title: PopoloCrois
+      type: tv
+      tvdbid: 314921
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 593
+      title: Mugen no Ryvius
+      type: tv
+      tvdbid: 72393
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 598
+      title: Jinzou Ningen Kikaider The Animation
+      type: tv
+      tvdbid: 72629
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 600
+      title: Legend of Duo
+      type: tv
+      tvdbid: 182691
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 603
+      title: Futari wa Precure
+      type: tv
+      tvdbid: 84334
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 604
+      title: Mahou no Stage Fancy Lala
+      type: tv
+      tvdbid: 89781
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 605
+      title: Tenshi ni Narumon!
+      type: tv
+      tvdbid: 103571
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 606
+      title: Kazemakase Tsukikage Ran
+      type: tv
+      tvdbid: 79476
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 610
+      title: Popotan
+      type: tv
+      tvdbid: 75077
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 611
+      title: Platonic Chain
+      type: tv
+      tvdbid: 212081
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 612
+      title: PetoPeto-san
+      type: tv
+      tvdbid: 84841
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 614
+      title: Okusama wa Mahou Shoujo
+      type: tv
+      tvdbid: 123611
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 616
+      title: Nurse Angel Ririka SOS
+      type: tv
+      tvdbid: 82695
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 618
+      title: "Juubee Ninpuuchou: Ryuuhougyoku-hen"
+      type: tv
+      tvdbid: 72842
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 620
+      title: Takahashi Rumiko Gekijou Ningyo no Mori
+      type: tv
+      tvdbid: 120151
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 621
+      title: "Night Walker: Mayonaka no Tantei"
+      type: tv
+      tvdbid: 82070
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 623
+      title: Shichinin no Nana
+      type: tv
+      tvdbid: 84026
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 624
+      title: Mouse
+      type: tv
+      tvdbid: 83635
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 626
+      title: Mamotte Shugogetten!
+      type: tv
+      tvdbid: 75002
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 627
+      title: Major S1
+      type: tv
+      tvdbid: 76013
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 630
+      title: Mahoutsukai Tai! (TV)
+      type: tv
+      tvdbid: 79078
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
     - malid: 631
       title: Mahoromatic Summer Special
@@ -1093,7 +1332,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 659
-      title: 'Azumanga Daiou: Gekijou Tanpen'
+      title: "Azumanga Daiou: Gekijou Tanpen"
       type: special
       tvdbid: 79077
       tvdbseason: 0
@@ -1111,7 +1350,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 762
-      title: 'Bleach: Memories in the Rain'
+      title: "Bleach: Memories in the Rain"
       type: special
       tvdbid: 74796
       tvdbseason: 0
@@ -1120,7 +1359,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 792
-      title: 'Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!'
+      title: "Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!"
       type: movie
       tvdbid: 76932
       tvdbseason: 0
@@ -1136,27 +1375,27 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 1
-        - tvdbseason: 2
-          start: 40
-        - tvdbseason: 3
-          start: 75
-        - tvdbseason: 4
-          start: 108
-        - tvdbseason: 5
-          start: 140
-        - tvdbseason: 6
-          start: 166
-        - tvdbseason: 7
-          start: 195
-        - tvdbseason: 8
-          start: 220
-        - tvdbseason: 9
-          start: 254
+          - tvdbseason: 1
+            start: 1
+          - tvdbseason: 2
+            start: 40
+          - tvdbseason: 3
+            start: 75
+          - tvdbseason: 4
+            start: 108
+          - tvdbseason: 5
+            start: 140
+          - tvdbseason: 6
+            start: 166
+          - tvdbseason: 7
+            start: 195
+          - tvdbseason: 8
+            start: 220
+          - tvdbseason: 9
+            start: 254
 
     - malid: 834
-      title: 'Bleach: The Sealed Sword Frenzy'
+      title: "Bleach: The Sealed Sword Frenzy"
       type: special
       tvdbid: 74796
       tvdbseason: 0
@@ -1183,7 +1422,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 891
-      title: 'Dragon Ball Movie 2: Majinjou no Nemurihime'
+      title: "Dragon Ball Movie 2: Majinjou no Nemurihime"
       type: movie
       tvdbid: 76666
       tvdbseason: 0
@@ -1192,7 +1431,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 892
-      title: 'Dragon Ball Movie 3: Makafushigi Daibouken'
+      title: "Dragon Ball Movie 3: Makafushigi Daibouken"
       type: movie
       tvdbid: 76666
       tvdbseason: 0
@@ -1201,7 +1440,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 893
-      title: 'Dragon Ball Movie 4: Saikyou e no Michi'
+      title: "Dragon Ball Movie 4: Saikyou e no Michi"
       type: movie
       tvdbid: 76666
       tvdbseason: 0
@@ -1210,7 +1449,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 894
-      title: 'Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!'
+      title: "Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1219,7 +1458,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 895
-      title: 'Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu'
+      title: "Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1228,7 +1467,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 896
-      title: 'Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen'
+      title: "Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1237,7 +1476,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 897
-      title: 'Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu'
+      title: "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1246,7 +1485,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 898
-      title: 'Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou'
+      title: "Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1255,7 +1494,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 899
-      title: 'Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi'
+      title: "Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1264,7 +1503,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 900
-      title: 'Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin'
+      title: "Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1273,7 +1512,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 901
-      title: 'Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen'
+      title: "Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1282,7 +1521,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 902
-      title: 'Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu'
+      title: "Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1291,7 +1530,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 903
-      title: 'Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai'
+      title: "Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1300,7 +1539,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 904
-      title: 'Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da'
+      title: "Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1309,7 +1548,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 905
-      title: 'Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta'
+      title: "Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1318,7 +1557,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 906
-      title: 'Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru'
+      title: "Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -1334,17 +1573,17 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 50
-        - tvdbseason: 3
-          start: 100
-        - tvdbseason: 4
-          start: 153
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 50
+          - tvdbseason: 3
+            start: 100
+          - tvdbseason: 4
+            start: 153
 
     - malid: 959
-      title: 'Shin Chou Kyou Ryo: Condor Hero'
+      title: "Shin Chou Kyou Ryo: Condor Hero"
       type: tv
       tvdbid: 79658
       tvdbseason: 1
@@ -1380,7 +1619,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 976
-      title: 'Yokohama Kaidashi Kikou: Quiet Country Cafe'
+      title: "Yokohama Kaidashi Kikou: Quiet Country Cafe"
       type: ova
       tvdbid: 84509
       tvdbseason: 2
@@ -1389,7 +1628,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 984
-      title: 'Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku'
+      title: "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku"
       type: ova
       tvdbid: 81472
       tvdbseason: 0
@@ -1398,7 +1637,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 985
-      title: 'Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks'
+      title: "Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks"
       type: tv_special
       tvdbid: 81472
       tvdbseason: 0
@@ -1407,13 +1646,33 @@ AnimeMap:
       animeMapping: []
 
     - malid: 986
-      title: 'Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen'
+      title: "Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen"
       type: tv_special
       tvdbid: 81472
       tvdbseason: 0
       start: 16
       useMapping: false
       animeMapping: []
+
+    - malid: 1003
+      title: Aa! Megami-sama! (TV) Specials
+      type: special
+      tvdbid: 78920
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+          - tvdbseason: 0
+            start: 0
+            mappingType: explicit
+            explicitEpisodes:
+                7: 1
+          - tvdbseason: 1
+            start: 0
+            mappingType: explicit
+            explicitEpisodes:
+                25: 2
+                26: 3
 
     - malid: 1007
       title: Ranma ½ OVA
@@ -1425,7 +1684,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1008
-      title: 'Ranma ½: Yomigaeru Kioku'
+      title: "Ranma ½: Yomigaeru Kioku"
       type: ova
       tvdbid: 76932
       tvdbseason: 0
@@ -1434,7 +1693,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1010
-      title: 'Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou'
+      title: "Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou"
       type: movie
       tvdbid: 76932
       tvdbseason: 0
@@ -1451,8 +1710,26 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1015
+      title: "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi"
+      type: special
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1024
+      title: Weiß Kreuz OVA
+      type: ova
+      tvdbid: 72922
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 1048
-      title: 'The SoulTaker: Tamashii-gari'
+      title: "The SoulTaker: Tamashii-gari"
       type: tv
       tvdbid: 80211
       tvdbseason: 1
@@ -1497,7 +1774,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1078
-      title: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
+      title: "Cardcaptor Sakura: Kero-chan ni Omakase!"
       type: movie
       tvdbid: 70668
       tvdbseason: 0
@@ -1506,7 +1783,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1094
-      title: 'One Piece: Umi no Heso no Daibouken-hen'
+      title: "One Piece: Umi no Heso no Daibouken-hen"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -1524,7 +1801,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1196
-      title: 'Masuda Kousuke Gekijou: Gag Manga Biyori'
+      title: "Masuda Kousuke Gekijou: Gag Manga Biyori"
       type: tv
       tvdbid: 83807
       tvdbseason: 1
@@ -1560,7 +1837,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1224
-      title: 'Aquarian Age: Sign for Evolution'
+      title: "Aquarian Age: Sign for Evolution"
       type: tv
       tvdbid: 83584
       tvdbseason: 1
@@ -1569,7 +1846,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1225
-      title: '3x3 Eyes: Seima Densetsu'
+      title: "3x3 Eyes: Seima Densetsu"
       type: ova
       tvdbid: 70973
       tvdbseason: 2
@@ -1623,7 +1900,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1237
-      title: 'One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!'
+      title: "One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -1632,7 +1909,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1238
-      title: 'One Piece: Mamore! Saigo no Oobutai'
+      title: "One Piece: Mamore! Saigo no Oobutai"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -1648,14 +1925,14 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 55
-        - tvdbseason: 3
-          start: 107
-        - tvdbseason: 4
-          start: 150
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 55
+          - tvdbseason: 3
+            start: 107
+          - tvdbseason: 4
+            start: 150
 
     - malid: 1453
       title: Maison Ikkoku
@@ -1665,17 +1942,17 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 27
-        - tvdbseason: 3
-          start: 53
-        - tvdbseason: 4
-          start: 77
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 27
+          - tvdbseason: 3
+            start: 53
+          - tvdbseason: 4
+            start: 77
 
     - malid: 1481
-      title: 'Urusei Yatsura: Haru da, Tobidase!'
+      title: "Urusei Yatsura: Haru da, Tobidase!"
       type: special
       tvdbid: 75113
       tvdbseason: 0
@@ -1684,7 +1961,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1519
-      title: 'Black Lagoon: The Second Barrage'
+      title: "Black Lagoon: The Second Barrage"
       type: tv
       tvdbid: 79604
       tvdbseason: 1
@@ -1729,7 +2006,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1575
-      title: 'Code Geass: Hangyaku no Lelouch'
+      title: "Code Geass: Hangyaku no Lelouch"
       type: tv
       tvdbid: 79525
       tvdbseason: 1
@@ -1754,24 +2031,24 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 34
-        - tvdbseason: 3
-          start: 66
-        - tvdbseason: 4
-          start: 74
-        - tvdbseason: 5
-          start: 102
-        - tvdbseason: 6
-          start: 141
-        - tvdbseason: 7
-          start: 154
-        - tvdbseason: 8
-          start: 178
-        - tvdbseason: 9
-          start: 190
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 34
+          - tvdbseason: 3
+            start: 66
+          - tvdbseason: 4
+            start: 74
+          - tvdbseason: 5
+            start: 102
+          - tvdbseason: 6
+            start: 141
+          - tvdbseason: 7
+            start: 154
+          - tvdbseason: 8
+            start: 178
+          - tvdbseason: 9
+            start: 190
 
     - malid: 1606
       title: Kekkaishi
@@ -1792,7 +2069,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1686
-      title: 'Bleach Movie 1: Memories of Nobody'
+      title: "Bleach Movie 1: Memories of Nobody"
       type: movie
       tvdbid: 74796
       tvdbseason: 0
@@ -1810,60 +2087,60 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1735
-      title: 'Naruto: Shippuuden'
+      title: "Naruto: Shippuuden"
       type: tv
       tvdbid: 79824
       tvdbseason: 0
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 33
-        - tvdbseason: 3
-          start: 54
-        - tvdbseason: 4
-          start: 72
-        - tvdbseason: 5
-          start: 89
-        - tvdbseason: 6
-          start: 113
-        - tvdbseason: 7
-          start: 144
-        - tvdbseason: 8
-          start: 152
-        - tvdbseason: 9
-          start: 176
-        - tvdbseason: 10
-          start: 197
-        - tvdbseason: 11
-          start: 223
-        - tvdbseason: 12
-          start: 243
-        - tvdbseason: 13
-          start: 261
-        - tvdbseason: 14
-          start: 296
-        - tvdbseason: 15
-          start: 321
-        - tvdbseason: 16
-          start: 349
-        - tvdbseason: 17
-          start: 362
-        - tvdbseason: 18
-          start: 394
-        - tvdbseason: 19
-          start: 414
-        - tvdbseason: 20
-          start: 432
-        - tvdbseason: 21
-          start: 451
-        - tvdbseason: 22
-          start: 459
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 33
+          - tvdbseason: 3
+            start: 54
+          - tvdbseason: 4
+            start: 72
+          - tvdbseason: 5
+            start: 89
+          - tvdbseason: 6
+            start: 113
+          - tvdbseason: 7
+            start: 144
+          - tvdbseason: 8
+            start: 152
+          - tvdbseason: 9
+            start: 176
+          - tvdbseason: 10
+            start: 197
+          - tvdbseason: 11
+            start: 223
+          - tvdbseason: 12
+            start: 243
+          - tvdbseason: 13
+            start: 261
+          - tvdbseason: 14
+            start: 296
+          - tvdbseason: 15
+            start: 321
+          - tvdbseason: 16
+            start: 349
+          - tvdbseason: 17
+            start: 362
+          - tvdbseason: 18
+            start: 394
+          - tvdbseason: 19
+            start: 414
+          - tvdbseason: 20
+            start: 432
+          - tvdbseason: 21
+            start: 451
+          - tvdbseason: 22
+            start: 459
 
     - malid: 1840
-      title: 'Zero no Tsukaima: Futatsuki no Kishi'
+      title: "Zero no Tsukaima: Futatsuki no Kishi"
       type: tv
       tvdbid: 79719
       tvdbseason: 2
@@ -1888,24 +2165,24 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 0
-          start: 0
-          mappingType: explicit
-          explicitEpisodes:
-            6: 1
-            8: 2
-            9: 3
-            11: 4
-            12: 5
-            13: 6
-            14: 7
-            15: 8
-            16: 9
-            17: 10
-            18: 11
+          - tvdbseason: 0
+            start: 0
+            mappingType: explicit
+            explicitEpisodes:
+                6: 1
+                8: 2
+                9: 3
+                11: 4
+                12: 5
+                13: 6
+                14: 7
+                15: 8
+                16: 9
+                17: 10
+                18: 11
 
     - malid: 1920
-      title: 'Urusei Yatsura Movie 1: Only You'
+      title: "Urusei Yatsura Movie 1: Only You"
       type: movie
       tvdbid: 75113
       tvdbseason: 0
@@ -1914,7 +2191,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1921
-      title: 'Urusei Yatsura 2: Beautiful Dreamer'
+      title: "Urusei Yatsura 2: Beautiful Dreamer"
       type: movie
       tvdbid: 75113
       tvdbseason: 0
@@ -1923,7 +2200,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1922
-      title: 'Urusei Yatsura Movie 3: Remember My Love'
+      title: "Urusei Yatsura Movie 3: Remember My Love"
       type: movie
       tvdbid: 75113
       tvdbseason: 0
@@ -1932,7 +2209,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1923
-      title: 'Urusei Yatsura Movie 4: Lum The Forever'
+      title: "Urusei Yatsura Movie 4: Lum The Forever"
       type: movie
       tvdbid: 75113
       tvdbseason: 0
@@ -1941,7 +2218,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1924
-      title: 'Urusei Yatsura Movie 5: Kanketsu-hen'
+      title: "Urusei Yatsura Movie 5: Kanketsu-hen"
       type: movie
       tvdbid: 75113
       tvdbseason: 0
@@ -1950,7 +2227,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1925
-      title: 'Urusei Yatsura Movie 6: Itsudatte My Darling'
+      title: "Urusei Yatsura Movie 6: Itsudatte My Darling"
       type: movie
       tvdbid: 75113
       tvdbseason: 0
@@ -1968,7 +2245,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2020
-      title: 'One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou'
+      title: "One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -1995,7 +2272,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2107
-      title: 'One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi'
+      title: "One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -2011,17 +2288,26 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 0
-          start: 23
-        - tvdbseason: 1
-          start: 0
+          - tvdbseason: 0
+            start: 23
+          - tvdbseason: 1
+            start: 0
 
     - malid: 2217
-      title: 'Hand Maid May: Akiramemasen'
+      title: "Hand Maid May: Akiramemasen"
       type: special
       tvdbid: 72470
       tvdbseason: 0
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2246
+      title: Mononoke
+      type: tv
+      tvdbid: 80470
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -2035,7 +2321,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2385
-      title: 'One Piece: Jango no Dance Carnival'
+      title: "One Piece: Jango no Dance Carnival"
       type: special
       tvdbid: 81797
       tvdbseason: 0
@@ -2044,7 +2330,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2386
-      title: 'One Piece: Yume no Soccer Ou!'
+      title: "One Piece: Yume no Soccer Ou!"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -2062,7 +2348,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2459
-      title: 'Maison Ikkoku: Bangai-hen - Ikkokujima Nanpa Shimatsuki'
+      title: "Maison Ikkoku: Bangai-hen - Ikkokujima Nanpa Shimatsuki"
       type: ova
       tvdbid: 71776
       tvdbseason: 0
@@ -2071,7 +2357,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2460
-      title: 'Maison Ikkoku: Kanketsu-hen'
+      title: "Maison Ikkoku: Kanketsu-hen"
       type: movie
       tvdbid: 71776
       tvdbseason: 0
@@ -2089,7 +2375,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2490
-      title: 'One Piece: Mezase! Kaizoku Yakyuu Ou'
+      title: "One Piece: Mezase! Kaizoku Yakyuu Ou"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -2098,7 +2384,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2518
-      title: 'Masuda Kousuke Gekijou: Gag Manga Biyori 2'
+      title: "Masuda Kousuke Gekijou: Gag Manga Biyori 2"
       type: tv
       tvdbid: 83807
       tvdbseason: 2
@@ -2107,7 +2393,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2563
-      title: 'Aria the OVA: Arietta'
+      title: "Aria the OVA: Arietta"
       type: ova
       tvdbid: 79839
       tvdbseason: 0
@@ -2125,7 +2411,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2889
-      title: 'Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru'
+      title: "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru"
       type: movie
       tvdbid: 74796
       tvdbseason: 0
@@ -2134,7 +2420,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2904
-      title: 'Code Geass: Hangyaku no Lelouch R2'
+      title: "Code Geass: Hangyaku no Lelouch R2"
       type: tv
       tvdbid: 79525
       tvdbseason: 2
@@ -2143,7 +2429,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2964
-      title: 'Blue Drop: Tenshi-tachi no Gikyoku'
+      title: "Blue Drop: Tenshi-tachi no Gikyoku"
       type: tv
       tvdbid: 80809
       tvdbseason: 1
@@ -2179,7 +2465,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 3456
-      title: 'Candy☆Boy: Side Story For Archive'
+      title: "Candy☆Boy: Side Story For Archive"
       type: ona
       tvdbid: 87991
       tvdbseason: 0
@@ -2188,7 +2474,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 3483
-      title: 'Maison Ikkoku: Shiki Utsuriyuku Kisetsu no Naka de'
+      title: "Maison Ikkoku: Shiki Utsuriyuku Kisetsu no Naka de"
       type: ova
       tvdbid: 71776
       tvdbseason: 0
@@ -2197,7 +2483,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 3484
-      title: 'Maison Ikkoku: Prelude - Meguru Haru no Sakura no You ni...'
+      title: "Maison Ikkoku: Prelude - Meguru Haru no Sakura no You ni..."
       type: special
       tvdbid: 71776
       tvdbseason: 0
@@ -2206,7 +2492,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 3712
-      title: 'Zero no Tsukaima: Princesses no Rondo'
+      title: "Zero no Tsukaima: Princesses no Rondo"
       type: tv
       tvdbid: 79719
       tvdbseason: 3
@@ -2224,7 +2510,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 3848
-      title: 'One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura'
+      title: "One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -2242,7 +2528,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4037
-      title: 'Cowboy Bebop: Yose Atsume Blues'
+      title: "Cowboy Bebop: Yose Atsume Blues"
       type: tv_special
       tvdbid: 76885
       tvdbseason: 0
@@ -2251,7 +2537,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4056
-      title: 'Masuda Kousuke Gekijou: Gag Manga Biyori 3'
+      title: "Masuda Kousuke Gekijou: Gag Manga Biyori 3"
       type: tv
       tvdbid: 83807
       tvdbseason: 3
@@ -2260,7 +2546,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4059
-      title: 'Clannad: Mou Hitotsu no Sekai, Tomoyo-hen'
+      title: "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen"
       type: special
       tvdbid: 80644
       tvdbseason: 0
@@ -2269,7 +2555,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4155
-      title: 'One Piece Film: Strong World'
+      title: "One Piece Film: Strong World"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -2278,7 +2564,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4181
-      title: 'Clannad: After Story'
+      title: "Clannad: After Story"
       type: tv
       tvdbid: 80644
       tvdbseason: 2
@@ -2305,7 +2591,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4535
-      title: 'Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life'
+      title: "Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life"
       type: ona
       tvdbid: 87991
       tvdbseason: 1
@@ -2314,7 +2600,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4596
-      title: 'Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion'
+      title: "Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion"
       type: ova
       tvdbid: 79525
       tvdbseason: 0
@@ -2332,7 +2618,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4772
-      title: 'Aria the Origination: Sono Choppiri Himitsu no Basho ni...'
+      title: "Aria the Origination: Sono Choppiri Himitsu no Basho ni..."
       type: special
       tvdbid: 79839
       tvdbseason: 0
@@ -2341,7 +2627,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4835
-      title: 'Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu'
+      title: "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu"
       type: movie
       tvdbid: 74796
       tvdbseason: 0
@@ -2350,7 +2636,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4841
-      title: 'Doukyuusei: Climax'
+      title: "Doukyuusei: Climax"
       type: ova
       tvdbid: 273223
       tvdbseason: 0
@@ -2368,7 +2654,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4886
-      title: 'InuYasha: Kuroi Tessaiga'
+      title: "InuYasha: Kuroi Tessaiga"
       type: special
       tvdbid: 71361
       tvdbseason: 0
@@ -2386,7 +2672,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4901
-      title: 'Black Lagoon: Roberta''s Blood Trail'
+      title: "Black Lagoon: Roberta's Blood Trail"
       type: ova
       tvdbid: 79604
       tvdbseason: 0
@@ -2431,7 +2717,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 5114
-      title: 'Fullmetal Alchemist: Brotherhood'
+      title: "Fullmetal Alchemist: Brotherhood"
       type: tv
       tvdbid: 85249
       tvdbseason: 1
@@ -2440,7 +2726,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 5116
-      title: 'Candy Boy Episode: EX01 - Mirai Yohouzu'
+      title: "Candy Boy Episode: EX01 - Mirai Yohouzu"
       type: ova
       tvdbid: 87991
       tvdbseason: 0
@@ -2476,7 +2762,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 5244
-      title: 'Aria the Natural: Sono Futatabi Deaeru Kiseki ni...'
+      title: "Aria the Natural: Sono Futatabi Deaeru Kiseki ni..."
       type: special
       tvdbid: 79839
       tvdbseason: 0
@@ -2485,7 +2771,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 5252
-      title: 'One Piece: Romance Dawn Story'
+      title: "One Piece: Romance Dawn Story"
       type: ova
       tvdbid: 81797
       tvdbseason: 0
@@ -2512,7 +2798,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 5493
-      title: 'Ranma ½: Akumu! Shunmin Kou'
+      title: "Ranma ½: Akumu! Shunmin Kou"
       type: ova
       tvdbid: 76932
       tvdbseason: 0
@@ -2548,7 +2834,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6007
-      title: 'Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu'
+      title: "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu"
       type: ova
       tvdbid: 81178
       tvdbseason: 0
@@ -2557,7 +2843,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6024
-      title: 'Chi''s Sweet Home: Atarashii Ouchi'
+      title: "Chi's Sweet Home: Atarashii Ouchi"
       type: tv
       tvdbid: 81844
       tvdbseason: 2
@@ -2602,7 +2888,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6351
-      title: 'Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen'
+      title: "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen"
       type: special
       tvdbid: 80644
       tvdbseason: 0
@@ -2611,7 +2897,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6479
-      title: 'Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron'
+      title: "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron"
       type: special
       tvdbid: 87991
       tvdbseason: 0
@@ -2629,7 +2915,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6567
-      title: 'Urusei Yatsura: The Shougaibutsu Suieitaikai'
+      title: "Urusei Yatsura: The Shougaibutsu Suieitaikai"
       type: special
       tvdbid: 75113
       tvdbseason: 0
@@ -2638,7 +2924,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6573
-      title: 'Darker than Black: Ryuusei no Gemini'
+      title: "Darker than Black: Ryuusei no Gemini"
       type: tv
       tvdbid: 80042
       tvdbseason: 2
@@ -2674,7 +2960,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6587
-      title: 'Kurokami: Intermission'
+      title: "Kurokami: Intermission"
       type: tv_special
       tvdbid: 84561
       tvdbseason: 0
@@ -2690,14 +2976,14 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 49
-        - tvdbseason: 3
-          start: 97
-        - tvdbseason: 4
-          start: 151
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 49
+          - tvdbseason: 3
+            start: 97
+          - tvdbseason: 4
+            start: 151
 
     - malid: 6707
       title: Kuroshitsuji II
@@ -2709,7 +2995,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6713
-      title: 'Ranma ½: Nettou Uta Gassen'
+      title: "Ranma ½: Nettou Uta Gassen"
       type: ova
       tvdbid: 76932
       tvdbseason: 0
@@ -2718,7 +3004,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6714
-      title: 'Dragon Ball Z: Atsumare! Gokuu World'
+      title: "Dragon Ball Z: Atsumare! Gokuu World"
       type: ova
       tvdbid: 81472
       tvdbseason: 0
@@ -2727,7 +3013,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6768
-      title: 'Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem'
+      title: "Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem"
       type: ova
       tvdbid: 79525
       tvdbseason: 0
@@ -2745,7 +3031,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6793
-      title: 'Kuroshitsuji: Sono Shitsuji, Kougyou'
+      title: "Kuroshitsuji: Sono Shitsuji, Kougyou"
       type: special
       tvdbid: 83996
       tvdbseason: 0
@@ -2754,7 +3040,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6811
-      title: 'InuYasha: Kanketsu-hen'
+      title: "InuYasha: Kanketsu-hen"
       type: tv
       tvdbid: 71361
       tvdbseason: 7
@@ -2781,7 +3067,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 7066
-      title: 'Mahoromatic: Tadaima Okaeri'
+      title: "Mahoromatic: Tadaima Okaeri"
       type: tv_special
       tvdbid: 79035
       tvdbseason: 0
@@ -2790,7 +3076,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 7337
-      title: 'Hetalia Axis Powers Movie: Paint it, White'
+      title: "Hetalia Axis Powers Movie: Paint it, White"
       type: movie
       tvdbid: 88161
       tvdbseason: 0
@@ -2835,7 +3121,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 7761
-      title: 'Masuda Kousuke Gekijou: Gag Manga Biyori +'
+      title: "Masuda Kousuke Gekijou: Gag Manga Biyori +"
       type: tv
       tvdbid: 83807
       tvdbseason: 4
@@ -2853,7 +3139,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 8023
-      title: 'Toaru Kagaku no Railgun: Motto Marutto Railgun'
+      title: "Toaru Kagaku no Railgun: Motto Marutto Railgun"
       type: special
       tvdbid: 114921
       tvdbseason: 0
@@ -2871,7 +3157,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 8247
-      title: 'Bleach Movie 4: Jigoku-hen'
+      title: "Bleach Movie 4: Jigoku-hen"
       type: movie
       tvdbid: 74796
       tvdbseason: 0
@@ -2934,7 +3220,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 8740
-      title: 'One Piece Film: Strong World Episode 0'
+      title: "One Piece Film: Strong World Episode 0"
       type: ova
       tvdbid: 81797
       tvdbseason: 0
@@ -2961,7 +3247,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 8888
-      title: 'Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita'
+      title: "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita"
       type: movie
       tvdbid: 79525
       tvdbseason: 0
@@ -2979,7 +3265,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 9047
-      title: 'Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato desu kara'
+      title: "Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato desu kara"
       type: ova
       tvdbid: 114921
       tvdbseason: 0
@@ -2988,7 +3274,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 9063
-      title: 'Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.'
+      title: "Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne."
       type: ova
       tvdbid: 114921
       tvdbseason: 0
@@ -3006,7 +3292,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 9120
-      title: 'Beelzebub: Hirotta Akachan wa Daimaou!?'
+      title: "Beelzebub: Hirotta Akachan wa Daimaou!?"
       type: special
       tvdbid: 219771
       tvdbseason: 0
@@ -3078,7 +3364,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 9925
-      title: 'Amagami SS: Tachibana Miya-hen - Imouto'
+      title: "Amagami SS: Tachibana Miya-hen - Imouto"
       type: special
       tvdbid: 172921
       tvdbseason: 0
@@ -3094,8 +3380,8 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 5
-          start: 202
+          - tvdbseason: 5
+            start: 202
 
     - malid: 9982
       title: Fairy Tail OVA
@@ -3116,7 +3402,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 9999
-      title: 'One Piece 3D: Mugiwara Chase'
+      title: "One Piece 3D: Mugiwara Chase"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -3134,7 +3420,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 10049
-      title: 'Nurarihyon no Mago: Sennen Makyou'
+      title: "Nurarihyon no Mago: Sennen Makyou"
       type: tv
       tvdbid: 171731
       tvdbseason: 2
@@ -3161,7 +3447,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 10152
-      title: 'Kimi ni Todoke: Kataomoi'
+      title: "Kimi ni Todoke: Kataomoi"
       type: tv_special
       tvdbid: 117801
       tvdbseason: 0
@@ -3206,7 +3492,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 10647
-      title: 'Ao no Exorcist: Ura Ex'
+      title: "Ao no Exorcist: Ura Ex"
       type: special
       tvdbid: 248035
       tvdbseason: 0
@@ -3233,7 +3519,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 10863
-      title: 'Steins;Gate: Oukoubakko no Poriomania'
+      title: "Steins;Gate: Oukoubakko no Poriomania"
       type: special
       tvdbid: 244061
       tvdbseason: 0
@@ -3260,7 +3546,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 11266
-      title: 'Ao no Exorcist: Kuro no Iede'
+      title: "Ao no Exorcist: Kuro no Iede"
       type: special
       tvdbid: 248035
       tvdbseason: 0
@@ -3278,7 +3564,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 11577
-      title: 'Steins;Gate Movie: Fuka Ryouiki no Déjà vu'
+      title: "Steins;Gate Movie: Fuka Ryouiki no Déjà vu"
       type: movie
       tvdbid: 244061
       tvdbseason: 0
@@ -3332,7 +3618,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 11685
-      title: 'Takarajima Memorial: Yuunagi to Yobareta Otoko'
+      title: "Takarajima Memorial: Yuunagi to Yobareta Otoko"
       type: ova
       tvdbid: 81629
       tvdbseason: 0
@@ -3341,7 +3627,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 11701
-      title: 'Another: The Other - Inga'
+      title: "Another: The Other - Inga"
       type: ova
       tvdbid: 254349
       tvdbseason: 0
@@ -3395,7 +3681,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 12001
-      title: 'One Piece 3D: Gekisou! Trap Coaster'
+      title: "One Piece 3D: Gekisou! Trap Coaster"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -3422,7 +3708,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 12049
-      title: 'Fairy Tail Movie 1: Houou no Miko'
+      title: "Fairy Tail Movie 1: Houou no Miko"
       type: movie
       tvdbid: 114801
       tvdbseason: 0
@@ -3431,7 +3717,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 12231
-      title: 'Dragon Ball: Episode of Bardock'
+      title: "Dragon Ball: Episode of Bardock"
       type: special
       tvdbid: 81472
       tvdbseason: 0
@@ -3458,7 +3744,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 12669
-      title: 'Amagami SS+ Plus: Extra Episode+ Plus'
+      title: "Amagami SS+ Plus: Extra Episode+ Plus"
       type: special
       tvdbid: 172921
       tvdbseason: 0
@@ -3467,7 +3753,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 12859
-      title: 'One Piece Film: Z'
+      title: "One Piece Film: Z"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -3485,7 +3771,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 13145
-      title: 'Cardfight!! Vanguard: Asia Circuit-hen'
+      title: "Cardfight!! Vanguard: Asia Circuit-hen"
       type: tv
       tvdbid: 245821
       tvdbseason: 2
@@ -3503,7 +3789,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 13263
-      title: 'Fate/Zero: Onegai! Einzbern Soudanshitsu'
+      title: "Fate/Zero: Onegai! Einzbern Soudanshitsu"
       type: special
       tvdbid: 275798
       tvdbseason: 0
@@ -3512,7 +3798,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 13469
-      title: 'Hyouka: Motsubeki Mono wa'
+      title: "Hyouka: Motsubeki Mono wa"
       type: ova
       tvdbid: 257764
       tvdbseason: 0
@@ -3584,7 +3870,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 14837
-      title: 'Dragon Ball Z Movie 14: Kami to Kami'
+      title: "Dragon Ball Z Movie 14: Kami to Kami"
       type: movie
       tvdbid: 81472
       tvdbseason: 0
@@ -3593,7 +3879,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 14921
-      title: 'RDG: Red Data Girl'
+      title: "RDG: Red Data Girl"
       type: tv
       tvdbid: 267433
       tvdbseason: 1
@@ -3602,7 +3888,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 14941
-      title: 'AKB0048: Next Stage'
+      title: "AKB0048: Next Stage"
       type: tv
       tvdbid: 257890
       tvdbseason: 2
@@ -3647,7 +3933,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 15195
-      title: 'Hetalia: The Beautiful World'
+      title: "Hetalia: The Beautiful World"
       type: ona
       tvdbid: 88161
       tvdbseason: 3
@@ -3656,7 +3942,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 15197
-      title: 'Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu'
+      title: "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu"
       type: movie
       tvdbid: 79525
       tvdbseason: 0
@@ -3665,7 +3951,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 15199
-      title: 'Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu'
+      title: "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu"
       type: movie
       tvdbid: 79525
       tvdbseason: 0
@@ -3674,7 +3960,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 15201
-      title: 'Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara'
+      title: "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara"
       type: movie
       tvdbid: 79525
       tvdbseason: 0
@@ -3692,7 +3978,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 15323
-      title: 'One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna'
+      title: "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -3701,15 +3987,15 @@ AnimeMap:
       animeMapping: []
 
     - malid: 15417
-      title: 'Gintama'': Enchousen'
+      title: "Gintama': Enchousen"
       type: tv
       tvdbid: 79895
       tvdbseason: 0
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 6
-          start: 253
+          - tvdbseason: 6
+            start: 253
 
     - malid: 15583
       title: Date A Live
@@ -3721,7 +4007,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 15611
-      title: 'Cardfight!! Vanguard: Link Joker-hen'
+      title: "Cardfight!! Vanguard: Link Joker-hen"
       type: tv
       tvdbid: 245821
       tvdbseason: 3
@@ -3748,7 +4034,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 16143
-      title: 'One Piece: Kinkyuu Kikaku One Piece Kanzen Kouryakuhou'
+      title: "One Piece: Kinkyuu Kikaku One Piece Kanzen Kouryakuhou"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -3757,7 +4043,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 16239
-      title: 'One Piece: Episode of Luffy - Hand Island no Bouken'
+      title: "One Piece: Episode of Luffy - Hand Island no Bouken"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -3766,7 +4052,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 16468
-      title: 'One Piece: Glorious Island'
+      title: "One Piece: Glorious Island"
       type: ona
       tvdbid: 81797
       tvdbseason: 0
@@ -3784,7 +4070,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 16706
-      title: 'Kami nomi zo Shiru Sekai: Megami-hen'
+      title: "Kami nomi zo Shiru Sekai: Megami-hen"
       type: tv
       tvdbid: 195711
       tvdbseason: 3
@@ -3802,29 +4088,29 @@ AnimeMap:
       animeMapping: []
 
     - malid: 17074
-      title: 'Monogatari Series: Second Season'
+      title: "Monogatari Series: Second Season"
       type: tv
       tvdbid: 102261
       tvdbseason: 0
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 0
-          start: 0
-          mappingType: explicit
-          explicitEpisodes:
-            7: 6
-            8: 11
-            9: 16
-        - tvdbseason: 3
-          start: 1
-          skipMalEpisodes:
-            - 6
-            - 11
-            - 16
+          - tvdbseason: 0
+            start: 0
+            mappingType: explicit
+            explicitEpisodes:
+                7: 6
+                8: 11
+                9: 16
+          - tvdbseason: 3
+            start: 1
+            skipMalEpisodes:
+                - 6
+                - 11
+                - 16
 
     - malid: 17205
-      title: 'Cowboy Bebop: Ein no Natsuyasumi'
+      title: "Cowboy Bebop: Ein no Natsuyasumi"
       type: special
       tvdbid: 76885
       tvdbseason: 0
@@ -3842,7 +4128,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 17273
-      title: 'Hetalia: The Beautiful World Specials'
+      title: "Hetalia: The Beautiful World Specials"
       type: special
       tvdbid: 88161
       tvdbseason: 0
@@ -3860,7 +4146,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 17535
-      title: 'Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa'
+      title: "Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa"
       type: special
       tvdbid: 114801
       tvdbseason: 0
@@ -3869,7 +4155,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 17641
-      title: 'Date A Live: Date to Date'
+      title: "Date A Live: Date to Date"
       type: ova
       tvdbid: 264663
       tvdbseason: 0
@@ -3948,13 +4234,13 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 0
-          start: 0
-          mappingType: explicit
-          explicitEpisodes:
-            7: 1
-            12: 2
-            13: 3
+          - tvdbseason: 0
+            start: 0
+            mappingType: explicit
+            explicitEpisodes:
+                7: 1
+                12: 2
+                13: 3
 
     - malid: 18411
       title: Gingitsune
@@ -3966,7 +4252,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 18497
-      title: 'Yozakura Quartet: Hana no Uta'
+      title: "Yozakura Quartet: Hana no Uta"
       type: tv
       tvdbid: 273009
       tvdbseason: 1
@@ -4002,7 +4288,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 18767
-      title: 'BlazBlue: Alter Memory'
+      title: "BlazBlue: Alter Memory"
       type: tv
       tvdbid: 272071
       tvdbseason: 1
@@ -4011,7 +4297,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 18771
-      title: 'Gifuu Doudou!!: Kanetsugu to Keiji'
+      title: "Gifuu Doudou!!: Kanetsugu to Keiji"
       type: tv
       tvdbid: 271216
       tvdbseason: 1
@@ -4020,7 +4306,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 18849
-      title: 'Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai'
+      title: "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai"
       type: special
       tvdbid: 82788
       tvdbseason: 0
@@ -4029,7 +4315,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 18851
-      title: 'Fate/kaleid liner Prisma☆Illya: Undoukai de Dance!'
+      title: "Fate/kaleid liner Prisma☆Illya: Undoukai de Dance!"
       type: ova
       tvdbid: 269319
       tvdbseason: 0
@@ -4038,7 +4324,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 18893
-      title: 'Aoki Hagane no Arpeggio: Ars Nova'
+      title: "Aoki Hagane no Arpeggio: Ars Nova"
       type: tv
       tvdbid: 272317
       tvdbseason: 1
@@ -4065,7 +4351,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 19123
-      title: 'One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari'
+      title: "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -4083,7 +4369,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 19285
-      title: 'Shingeki no Kyojin: Ano Hi Kara'
+      title: "Shingeki no Kyojin: Ano Hi Kara"
       type: tv_special
       tvdbid: 267440
       tvdbseason: 0
@@ -4108,22 +4394,22 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 0
-          start: 0
-          mappingType: explicit
-          explicitEpisodes:
-            2: 1
-            3: 2
-            4: 3
-            5: 4
-            6: 5
-            8: 6
-            9: 7
-            10: 8
-            11: 9
+          - tvdbseason: 0
+            start: 0
+            mappingType: explicit
+            explicitEpisodes:
+                2: 1
+                3: 2
+                4: 3
+                5: 4
+                6: 5
+                8: 6
+                9: 7
+                10: 8
+                11: 9
 
     - malid: 19697
-      title: 'Toaru Kagaku no Railgun S: Motto Marutto Railgun'
+      title: "Toaru Kagaku no Railgun S: Motto Marutto Railgun"
       type: special
       tvdbid: 114921
       tvdbseason: 0
@@ -4141,7 +4427,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 19945
-      title: 'Zoku Natsume Yuujinchou: 3D Nyanko-sensei Gekijou'
+      title: "Zoku Natsume Yuujinchou: 3D Nyanko-sensei Gekijou"
       type: special
       tvdbid: 82788
       tvdbseason: 0
@@ -4150,7 +4436,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 20053
-      title: 'Wizard Barristers: Benmashi Cecil'
+      title: "Wizard Barristers: Benmashi Cecil"
       type: tv
       tvdbid: 275629
       tvdbseason: 1
@@ -4177,7 +4463,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 20651
-      title: 'Natsume Yuujinchou: Itsuka Yuki no Hi ni'
+      title: "Natsume Yuujinchou: Itsuka Yuki no Hi ni"
       type: ova
       tvdbid: 82788
       tvdbseason: 0
@@ -4195,7 +4481,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 20899
-      title: 'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders'
+      title: "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders"
       type: tv
       tvdbid: 262954
       tvdbseason: 2
@@ -4213,7 +4499,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 21075
-      title: 'Hetalia: The Beautiful World Extra Disc'
+      title: "Hetalia: The Beautiful World Extra Disc"
       type: ova
       tvdbid: 88161
       tvdbseason: 0
@@ -4222,7 +4508,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 21329
-      title: 'Mushishi: Hihamukage'
+      title: "Mushishi: Hihamukage"
       type: tv_special
       tvdbid: 79214
       tvdbseason: 0
@@ -4240,7 +4526,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 21729
-      title: 'Cardfight!! Vanguard: Legion Mate-hen'
+      title: "Cardfight!! Vanguard: Legion Mate-hen"
       type: tv
       tvdbid: 245821
       tvdbseason: 4
@@ -4283,15 +4569,15 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 5
-          start: 0
-        - tvdbseason: 6
-          start: 52
-        - tvdbseason: 7
-          start: 91
+          - tvdbseason: 5
+            start: 0
+          - tvdbseason: 6
+            start: 52
+          - tvdbseason: 7
+            start: 91
 
     - malid: 22145
-      title: 'Kuroshitsuji: Book of Circus'
+      title: "Kuroshitsuji: Book of Circus"
       type: tv
       tvdbid: 83996
       tvdbseason: 3
@@ -4300,7 +4586,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 22297
-      title: 'Fate/stay night: Unlimited Blade Works'
+      title: "Fate/stay night: Unlimited Blade Works"
       type: tv
       tvdbid: 278626
       tvdbseason: 1
@@ -4327,7 +4613,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 22695
-      title: 'Dragon Ball Z: Summer Vacation Special'
+      title: "Dragon Ball Z: Summer Vacation Special"
       type: tv_special
       tvdbid: 81472
       tvdbseason: 0
@@ -4336,7 +4622,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 22699
-      title: 'Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!'
+      title: "Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!"
       type: tv_special
       tvdbid: 81472
       tvdbseason: 0
@@ -4345,7 +4631,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 22759
-      title: 'Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta'
+      title: "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta"
       type: ova
       tvdbid: 114921
       tvdbseason: 0
@@ -4354,7 +4640,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 22961
-      title: 'Date A Live II: Kurumi Star Festival'
+      title: "Date A Live II: Kurumi Star Festival"
       type: ova
       tvdbid: 264663
       tvdbseason: 0
@@ -4417,7 +4703,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 23311
-      title: 'Garo: Honoo no Kokuin'
+      title: "Garo: Honoo no Kokuin"
       type: tv
       tvdbid: 279980
       tvdbseason: 1
@@ -4426,7 +4712,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 23317
-      title: 'Kuroshitsuji: Book of Murder'
+      title: "Kuroshitsuji: Book of Murder"
       type: ova
       tvdbid: 83996
       tvdbseason: 0
@@ -4480,7 +4766,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 23441
-      title: 'Love Stage!!: Chotto ja Nakutte'
+      title: "Love Stage!!: Chotto ja Nakutte"
       type: ova
       tvdbid: 280327
       tvdbseason: 0
@@ -4516,7 +4802,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 23775
-      title: 'Shingeki no Kyojin Movie 1: Guren no Yumiya'
+      title: "Shingeki no Kyojin Movie 1: Guren no Yumiya"
       type: movie
       tvdbid: 267440
       tvdbseason: 0
@@ -4525,7 +4811,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 23777
-      title: 'Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa'
+      title: "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa"
       type: movie
       tvdbid: 267440
       tvdbseason: 0
@@ -4615,7 +4901,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 24231
-      title: 'Hitsugi no Chaika: Avenging Battle'
+      title: "Hitsugi no Chaika: Avenging Battle"
       type: tv
       tvdbid: 278127
       tvdbseason: 2
@@ -4624,7 +4910,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 24261
-      title: 'Hitsugi no Chaika: Nerawareta Hitsugi/Yomigaeru Iseki'
+      title: "Hitsugi no Chaika: Nerawareta Hitsugi/Yomigaeru Iseki"
       type: ova
       tvdbid: 278127
       tvdbseason: 0
@@ -4633,7 +4919,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 24277
-      title: 'Yowamushi Pedal: Grande Road'
+      title: "Yowamushi Pedal: Grande Road"
       type: tv
       tvdbid: 272309
       tvdbseason: 2
@@ -4678,7 +4964,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 24469
-      title: 'Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de'
+      title: "Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de"
       type: tv_special
       tvdbid: 276777
       tvdbseason: 0
@@ -4687,7 +4973,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 24531
-      title: 'Ane Log: Moyako Neesan no Tomaranai Monologue'
+      title: "Ane Log: Moyako Neesan no Tomaranai Monologue"
       type: ova
       tvdbid: 290620
       tvdbseason: 1
@@ -4696,7 +4982,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 24627
-      title: 'Yamada-kun to 7-nin no Majo: Mou Hitotsu no Suzaku-sai'
+      title: "Yamada-kun to 7-nin no Majo: Mou Hitotsu no Suzaku-sai"
       type: ova
       tvdbid: 289744
       tvdbseason: 0
@@ -4714,7 +5000,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 24655
-      title: 'Date A Live Movie: Mayuri Judgment'
+      title: "Date A Live Movie: Mayuri Judgment"
       type: movie
       tvdbid: 264663
       tvdbseason: 0
@@ -4723,7 +5009,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 24687
-      title: 'Mushishi Zoku Shou: Odoro no Michi'
+      title: "Mushishi Zoku Shou: Odoro no Michi"
       type: tv_special
       tvdbid: 79214
       tvdbseason: 0
@@ -4750,7 +5036,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 24919
-      title: 'Aoki Hagane no Arpeggio: Ars Nova Movie 1 - DC'
+      title: "Aoki Hagane no Arpeggio: Ars Nova Movie 1 - DC"
       type: movie
       tvdbid: 272317
       tvdbseason: 0
@@ -4759,7 +5045,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 24921
-      title: 'Aoki Hagane no Arpeggio: Ars Nova Movie 2 - Cadenza'
+      title: "Aoki Hagane no Arpeggio: Ars Nova Movie 2 - Cadenza"
       type: movie
       tvdbid: 272317
       tvdbseason: 0
@@ -4786,7 +5072,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 25161
-      title: 'One Piece 3D2Y: Ace no Shi wo Koete! Luffy Nakama to no Chikai'
+      title: "One Piece 3D2Y: Ace no Shi wo Koete! Luffy Nakama to no Chikai"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -4822,22 +5108,22 @@ AnimeMap:
       animeMapping: []
 
     - malid: 25781
-      title: 'Shingeki no Kyojin: Kuinaki Sentaku'
+      title: "Shingeki no Kyojin: Kuinaki Sentaku"
       type: ova
       tvdbid: 267440
       tvdbseason: 0
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 0
-          start: 0
-          mappingType: explicit
-          explicitEpisodes:
-            15: 1
-            17: 2
+          - tvdbseason: 0
+            start: 0
+            mappingType: explicit
+            explicitEpisodes:
+                15: 1
+                17: 2
 
     - malid: 26055
-      title: 'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen'
+      title: "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen"
       type: tv
       tvdbid: 262954
       tvdbseason: 2
@@ -4846,7 +5132,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 26057
-      title: 'Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou'
+      title: "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou"
       type: ova
       tvdbid: 269319
       tvdbseason: 0
@@ -4891,7 +5177,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 27737
-      title: 'Battle Spirits: Burning Soul'
+      title: "Battle Spirits: Burning Soul"
       type: tv
       tvdbid: 293863
       tvdbseason: 1
@@ -4900,7 +5186,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 27741
-      title: 'Shounen Hollywood: Holly Stage for 50'
+      title: "Shounen Hollywood: Holly Stage for 50"
       type: tv
       tvdbid: 281947
       tvdbseason: 2
@@ -4936,7 +5222,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 27787
-      title: 'Nisekoi:'
+      title: "Nisekoi:"
       type: tv
       tvdbid: 275670
       tvdbseason: 2
@@ -4954,7 +5240,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 27821
-      title: 'Fate/stay night: Unlimited Blade Works Prologue'
+      title: "Fate/stay night: Unlimited Blade Works Prologue"
       type: tv_special
       tvdbid: 278626
       tvdbseason: 0
@@ -4999,7 +5285,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 27991
-      title: 'K: Return of Kings'
+      title: "K: Return of Kings"
       type: tv
       tvdbid: 261249
       tvdbseason: 2
@@ -5062,7 +5348,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 28285
-      title: 'Trinity Seven: Nanatsu no Taizai to Nana Madoushi'
+      title: "Trinity Seven: Nanatsu no Taizai to Nana Madoushi"
       type: ova
       tvdbid: 283935
       tvdbseason: 0
@@ -5071,7 +5357,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 28401
-      title: 'Q Transformers: Kaette Kita Convoy no Nazo'
+      title: "Q Transformers: Kaette Kita Convoy no Nazo"
       type: tv
       tvdbid: 291567
       tvdbseason: 1
@@ -5080,7 +5366,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 28405
-      title: 'Ansatsu Kyoushitsu: Deai no Jikan'
+      title: "Ansatsu Kyoushitsu: Deai no Jikan"
       type: special
       tvdbid: 283947
       tvdbseason: 0
@@ -5098,7 +5384,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 28447
-      title: 'Shingeki no Bahamut: Genesis - Roundup'
+      title: "Shingeki no Bahamut: Genesis - Roundup"
       type: tv_special
       tvdbid: 284133
       tvdbseason: 0
@@ -5116,7 +5402,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 28537
-      title: 'Garo: Guren no Tsuki'
+      title: "Garo: Guren no Tsuki"
       type: tv
       tvdbid: 303145
       tvdbseason: 1
@@ -5125,7 +5411,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 28607
-      title: 'Hetalia: The World Twinkle'
+      title: "Hetalia: The World Twinkle"
       type: ona
       tvdbid: 88161
       tvdbseason: 4
@@ -5134,7 +5420,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 28701
-      title: 'Fate/stay night: Unlimited Blade Works 2nd Season'
+      title: "Fate/stay night: Unlimited Blade Works 2nd Season"
       type: tv
       tvdbid: 278626
       tvdbseason: 1
@@ -5161,7 +5447,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 28957
-      title: 'Mushishi Zoku Shou: Suzu no Shizuku'
+      title: "Mushishi Zoku Shou: Suzu no Shizuku"
       type: movie
       tvdbid: 79214
       tvdbseason: 0
@@ -5177,8 +5463,8 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 7
-          start: 266
+          - tvdbseason: 7
+            start: 266
 
     - malid: 29067
       title: Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me
@@ -5253,7 +5539,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 30230
-      title: 'Diamond no Ace: Second Season'
+      title: "Diamond no Ace: Second Season"
       type: tv
       tvdbid: 273005
       tvdbseason: 2
@@ -5305,19 +5591,19 @@ AnimeMap:
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 1
-        - tvdbseason: 2
-          start: 15
-        - tvdbseason: 3
-          start: 28
-        - tvdbseason: 4
-          start: 47
-        - tvdbseason: 5
-          start: 77
+          - tvdbseason: 1
+            start: 1
+          - tvdbseason: 2
+            start: 15
+          - tvdbseason: 3
+            start: 28
+          - tvdbseason: 4
+            start: 47
+          - tvdbseason: 5
+            start: 77
 
     - malid: 30711
-      title: 'Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e'
+      title: "Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e"
       type: movie
       tvdbid: 79525
       tvdbseason: 0
@@ -5326,7 +5612,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 30778
-      title: 'Fairy Tail Movie 2: Dragon Cry'
+      title: "Fairy Tail Movie 2: Dragon Cry"
       type: movie
       tvdbid: 114801
       tvdbseason: 0
@@ -5353,7 +5639,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31096
-      title: 'Hibike! Euphonium: Suisougaku-bu no Nichijou'
+      title: "Hibike! Euphonium: Suisougaku-bu no Nichijou"
       type: special
       tvdbid: 289884
       tvdbseason: 0
@@ -5362,7 +5648,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31158
-      title: 'Hetalia: The World Twinkle Specials'
+      title: "Hetalia: The World Twinkle Specials"
       type: special
       tvdbid: 88161
       tvdbseason: 0
@@ -5398,7 +5684,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31196
-      title: 'Cardfight!! Vanguard G: GIRS Crisis-hen'
+      title: "Cardfight!! Vanguard G: GIRS Crisis-hen"
       type: tv
       tvdbid: 245821
       tvdbseason: 6
@@ -5416,7 +5702,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31289
-      title: 'One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi'
+      title: "One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -5443,7 +5729,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31389
-      title: 'Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day'
+      title: "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day"
       type: special
       tvdbid: 278626
       tvdbseason: 0
@@ -5470,7 +5756,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31490
-      title: 'One Piece Film: Gold'
+      title: "One Piece Film: Gold"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -5497,7 +5783,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31665
-      title: 'Hibike! Euphonium: Kakedasu Monaka'
+      title: "Hibike! Euphonium: Kakedasu Monaka"
       type: special
       tvdbid: 289884
       tvdbseason: 0
@@ -5506,7 +5792,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31704
-      title: 'One Punch Man: Road to Hero'
+      title: "One Punch Man: Road to Hero"
       type: ova
       tvdbid: 293088
       tvdbseason: 0
@@ -5542,7 +5828,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31812
-      title: 'Kuroshitsuji Movie: Book of the Atlantic'
+      title: "Kuroshitsuji Movie: Book of the Atlantic"
       type: movie
       tvdbid: 83996
       tvdbseason: 0
@@ -5551,7 +5837,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31821
-      title: 'Arslan Senki (TV): Fuujin Ranbu'
+      title: "Arslan Senki (TV): Fuujin Ranbu"
       type: tv
       tvdbid: 291630
       tvdbseason: 2
@@ -5568,8 +5854,17 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 31931
+      title: Full Metal Panic! Invisible Victory
+      type: tv
+      tvdbid: 78914
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 31933
-      title: 'JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai'
+      title: "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai"
       type: tv
       tvdbid: 262954
       tvdbseason: 3
@@ -5596,7 +5891,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31989
-      title: 'Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso'
+      title: "Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso"
       type: movie
       tvdbid: 289884
       tvdbseason: 0
@@ -5614,7 +5909,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31997
-      title: 'Hetalia: The World Twinkle Extra Disc'
+      title: "Hetalia: The World Twinkle Extra Disc"
       type: ova
       tvdbid: 88161
       tvdbseason: 0
@@ -5632,7 +5927,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32051
-      title: 'One Piece: Adventure of Nebulandia'
+      title: "One Piece: Adventure of Nebulandia"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -5650,7 +5945,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32188
-      title: 'Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero'
+      title: "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero"
       type: tv_special
       tvdbid: 339268
       tvdbseason: 0
@@ -5668,7 +5963,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32282
-      title: 'Shokugeki no Souma: Ni no Sara'
+      title: "Shokugeki no Souma: Ni no Sara"
       type: tv
       tvdbid: 289909
       tvdbseason: 2
@@ -5686,7 +5981,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32380
-      title: 'Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!'
+      title: "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!"
       type: ova
       tvdbid: 303867
       tvdbseason: 0
@@ -5695,7 +5990,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32485
-      title: 'Prison School: Mad Wax'
+      title: "Prison School: Mad Wax"
       type: ova
       tvdbid: 293267
       tvdbseason: 0
@@ -5704,7 +5999,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32571
-      title: 'Shounen Ashibe: Go! Go! Goma-chan'
+      title: "Shounen Ashibe: Go! Go! Goma-chan"
       type: tv
       tvdbid: 310027
       tvdbseason: 1
@@ -5722,7 +6017,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32802
-      title: 'Cardfight!! Vanguard G: Stride Gate-hen'
+      title: "Cardfight!! Vanguard G: Stride Gate-hen"
       type: tv
       tvdbid: 245821
       tvdbseason: 7
@@ -5731,7 +6026,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32863
-      title: 'Ansatsu Kyoushitsu: Kagaijugyou-hen'
+      title: "Ansatsu Kyoushitsu: Kagaijugyou-hen"
       type: ona
       tvdbid: 283947
       tvdbseason: 0
@@ -5749,7 +6044,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32900
-      title: 'Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo'
+      title: "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo"
       type: movie
       tvdbid: 278329
       tvdbseason: 0
@@ -5758,7 +6053,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32902
-      title: 'Mahoutsukai no Yome: Hoshi Matsu Hito'
+      title: "Mahoutsukai no Yome: Hoshi Matsu Hito"
       type: ova
       tvdbid: 316842
       tvdbseason: 0
@@ -5821,7 +6116,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33064
-      title: 'Uchuu Senkan Yamato 2202: Ai no Senshi-tachi'
+      title: "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi"
       type: ova
       tvdbid: 259675
       tvdbseason: 2
@@ -5830,7 +6125,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33071
-      title: 'Bungou Stray Dogs: Hitori Ayumu'
+      title: "Bungou Stray Dogs: Hitori Ayumu"
       type: ova
       tvdbid: 305075
       tvdbseason: 0
@@ -5866,7 +6161,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33240
-      title: 'Koneko no Chi: Ponponra Daibouken'
+      title: "Koneko no Chi: Ponponra Daibouken"
       type: tv
       tvdbid: 81844
       tvdbseason: 3
@@ -5893,7 +6188,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33338
-      title: 'One Piece: Heart of Gold'
+      title: "One Piece: Heart of Gold"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -5902,7 +6197,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33354
-      title: 'Cardcaptor Sakura: Clear Card-hen'
+      title: "Cardcaptor Sakura: Clear Card-hen"
       type: tv
       tvdbid: 70668
       tvdbseason: 4
@@ -5929,7 +6224,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33506
-      title: 'Ao no Exorcist: Kyoto Fujouou-hen'
+      title: "Ao no Exorcist: Kyoto Fujouou-hen"
       type: tv
       tvdbid: 248035
       tvdbseason: 2
@@ -5938,7 +6233,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33513
-      title: 'Ansatsu Kyoushitsu: 365-nichi no Jikan'
+      title: "Ansatsu Kyoushitsu: 365-nichi no Jikan"
       type: movie
       tvdbid: 283947
       tvdbseason: 0
@@ -5947,7 +6242,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33606
-      title: 'One Piece Film: Gold Episode 0 - 711 ver.'
+      title: "One Piece Film: Gold Episode 0 - 711 ver."
       type: ona
       tvdbid: 81797
       tvdbseason: 0
@@ -5956,7 +6251,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33818
-      title: 'Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto'
+      title: "Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto"
       type: ova
       tvdbid: 304900
       tvdbseason: 0
@@ -5965,7 +6260,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33929
-      title: 'Boku no Hero Academia: Sukue! Kyuujo Kunren!'
+      title: "Boku no Hero Academia: Sukue! Kyuujo Kunren!"
       type: ova
       tvdbid: 305074
       tvdbseason: 0
@@ -5974,7 +6269,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33949
-      title: 'Oshiete! Galko-chan: Natsuyasumi tte Hontou desu ka?'
+      title: "Oshiete! Galko-chan: Natsuyasumi tte Hontou desu ka?"
       type: ova
       tvdbid: 304489
       tvdbseason: 0
@@ -6028,7 +6323,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 34100
-      title: 'Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai'
+      title: "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai"
       type: movie
       tvdbid: 269319
       tvdbseason: 0
@@ -6082,7 +6377,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 34437
-      title: 'Code Geass: Fukkatsu no Lelouch'
+      title: "Code Geass: Fukkatsu no Lelouch"
       type: movie
       tvdbid: 79525
       tvdbseason: 0
@@ -6091,7 +6386,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 34438
-      title: 'Code Geass: Hangyaku no Lelouch I - Koudou'
+      title: "Code Geass: Hangyaku no Lelouch I - Koudou"
       type: movie
       tvdbid: 79525
       tvdbseason: 0
@@ -6100,7 +6395,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 34439
-      title: 'Code Geass: Hangyaku no Lelouch II - Handou'
+      title: "Code Geass: Hangyaku no Lelouch II - Handou"
       type: movie
       tvdbid: 79525
       tvdbseason: 0
@@ -6109,7 +6404,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 34440
-      title: 'Code Geass: Hangyaku no Lelouch III - Oudou'
+      title: "Code Geass: Hangyaku no Lelouch III - Oudou"
       type: movie
       tvdbid: 79525
       tvdbseason: 0
@@ -6118,7 +6413,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 34465
-      title: 'Ao no Exorcist: Kyoto Fujouou-hen OVA'
+      title: "Ao no Exorcist: Kyoto Fujouou-hen OVA"
       type: ova
       tvdbid: 248035
       tvdbseason: 0
@@ -6136,7 +6431,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 34480
-      title: 'Shokugeki no Souma: Ni no Sara OVA'
+      title: "Shokugeki no Souma: Ni no Sara OVA"
       type: ova
       tvdbid: 289909
       tvdbseason: 0
@@ -6208,7 +6503,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 34626
-      title: 'Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!'
+      title: "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!"
       type: ova
       tvdbid: 303867
       tvdbseason: 0
@@ -6217,7 +6512,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 34777
-      title: '91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita'
+      title: "91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita"
       type: special
       tvdbid: 309530
       tvdbseason: 0
@@ -6253,7 +6548,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 34944
-      title: 'Bungou Stray Dogs: Dead Apple'
+      title: "Bungou Stray Dogs: Dead Apple"
       type: movie
       tvdbid: 305075
       tvdbseason: 0
@@ -6262,7 +6557,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 34979
-      title: 'Shounen Ashibe: Go! Go! Goma-chan 2'
+      title: "Shounen Ashibe: Go! Go! Goma-chan 2"
       type: tv
       tvdbid: 310027
       tvdbseason: 2
@@ -6307,7 +6602,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35082
-      title: 'Hibike! Euphonium Movie 2: Todoketai Melody'
+      title: "Hibike! Euphonium Movie 2: Todoketai Melody"
       type: movie
       tvdbid: 289884
       tvdbseason: 0
@@ -6325,7 +6620,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35231
-      title: 'Vatican Kiseki Chousakan: Majo no Soup'
+      title: "Vatican Kiseki Chousakan: Majo no Soup"
       type: ova
       tvdbid: 329823
       tvdbseason: 0
@@ -6334,7 +6629,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35237
-      title: 'Hajimete no Gal: Hajimete no Bunkasai'
+      title: "Hajimete no Gal: Hajimete no Bunkasai"
       type: ova
       tvdbid: 329422
       tvdbseason: 0
@@ -6361,7 +6656,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35249
-      title: 'Uma Musume: Pretty Derby'
+      title: "Uma Musume: Pretty Derby"
       type: tv
       tvdbid: 344220
       tvdbseason: 1
@@ -6370,7 +6665,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35262
-      title: 'Boku no Hero Academia: Hero Note'
+      title: "Boku no Hero Academia: Hero Note"
       type: tv_special
       tvdbid: 305074
       tvdbseason: 0
@@ -6379,7 +6674,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35320
-      title: 'Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma'
+      title: "Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma"
       type: ova
       tvdbid: 70668
       tvdbseason: 0
@@ -6397,7 +6692,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35459
-      title: 'Boku no Hero Academia: Training of the Dead'
+      title: "Boku no Hero Academia: Training of the Dead"
       type: ova
       tvdbid: 305074
       tvdbseason: 0
@@ -6424,7 +6719,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35678
-      title: 'Hibike! Euphonium Movie 3: Chikai no Finale'
+      title: "Hibike! Euphonium Movie 3: Chikai no Finale"
       type: movie
       tvdbid: 289884
       tvdbseason: 0
@@ -6451,7 +6746,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35788
-      title: 'Shokugeki no Souma: San no Sara'
+      title: "Shokugeki no Souma: San no Sara"
       type: tv
       tvdbid: 289909
       tvdbseason: 3
@@ -6505,7 +6800,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35857
-      title: 'Lupin III: Part 5'
+      title: "Lupin III: Part 5"
       type: tv
       tvdbid: 71863
       tvdbseason: 5
@@ -6550,7 +6845,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35972
-      title: 'Fairy Tail: Final Series'
+      title: "Fairy Tail: Final Series"
       type: tv
       tvdbid: 114801
       tvdbseason: 8
@@ -6613,7 +6908,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36037
-      title: 'Senran Kagura Shinovi Master: Tokyo Youma-hen'
+      title: "Senran Kagura Shinovi Master: Tokyo Youma-hen"
       type: tv
       tvdbid: 264053
       tvdbseason: 2
@@ -6649,20 +6944,20 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36106
-      title: 'Shingeki no Kyojin: Lost Girls'
+      title: "Shingeki no Kyojin: Lost Girls"
       type: ova
       tvdbid: 267440
       tvdbseason: 0
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 0
-          start: 0
-          mappingType: explicit
-          explicitEpisodes:
-            20: 1
-            22: 2
-            23: 3
+          - tvdbseason: 0
+            start: 0
+            mappingType: explicit
+            explicitEpisodes:
+                20: 1
+                22: 2
+                23: 3
 
     - malid: 36108
       title: Takunomi.
@@ -6674,7 +6969,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36215
-      title: 'One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken'
+      title: "One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -6718,6 +7013,33 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36342
+      title: "Full Metal Panic! Movie 1: Boy Meets Girl"
+      type: movie
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 6
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36343
+      title: "Full Metal Panic! Movie 2: One Night Stand"
+      type: movie
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 7
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36344
+      title: "Full Metal Panic! Movie 3: Into the Blue"
+      type: movie
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 8
+      useMapping: false
+      animeMapping: []
+
     - malid: 36407
       title: Kenja no Mago
       type: tv
@@ -6728,7 +7050,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36418
-      title: 'Koneko no Chi: Ponponra Dairyokou'
+      title: "Koneko no Chi: Ponponra Dairyokou"
       type: tv
       tvdbid: 81844
       tvdbseason: 4
@@ -6755,7 +7077,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36474
-      title: 'Sword Art Online: Alicization'
+      title: "Sword Art Online: Alicization"
       type: tv
       tvdbid: 259640
       tvdbseason: 3
@@ -6773,7 +7095,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36538
-      title: 'Natsume Yuujinchou Movie: Utsusemi ni Musubu'
+      title: "Natsume Yuujinchou Movie: Utsusemi ni Musubu"
       type: movie
       tvdbid: 82788
       tvdbseason: 0
@@ -6782,7 +7104,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36616
-      title: 'Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha'
+      title: "Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha"
       type: special
       tvdbid: 307375
       tvdbseason: 0
@@ -6809,7 +7131,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36702
-      title: 'Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou'
+      title: "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou"
       type: movie
       tvdbid: 267440
       tvdbseason: 0
@@ -6827,7 +7149,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36793
-      title: '3D Kanojo: Real Girl'
+      title: "3D Kanojo: Real Girl"
       type: tv
       tvdbid: 342010
       tvdbseason: 1
@@ -6854,7 +7176,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36833
-      title: 'Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai - Kuro Sakura no Heya'
+      title: "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai - Kuro Sakura no Heya"
       type: special
       tvdbid: 269319
       tvdbseason: 0
@@ -6872,7 +7194,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36862
-      title: 'Made in Abyss Movie 3: Fukaki Tamashii no Reimei'
+      title: "Made in Abyss Movie 3: Fukaki Tamashii no Reimei"
       type: movie
       tvdbid: 326109
       tvdbseason: 0
@@ -6890,7 +7212,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36896
-      title: 'Boku no Hero Academia the Movie 1: Futari no Hero'
+      title: "Boku no Hero Academia the Movie 1: Futari no Hero"
       type: movie
       tvdbid: 305074
       tvdbseason: 0
@@ -6917,7 +7239,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36949
-      title: 'Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen'
+      title: "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen"
       type: tv
       tvdbid: 289909
       tvdbseason: 3
@@ -6926,7 +7248,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 36962
-      title: 'Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina'
+      title: "Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina"
       type: ova
       tvdbid: 289909
       tvdbseason: 0
@@ -6979,6 +7301,33 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 37109
+      title: "Hakumei to Mikochi: Neji to Bed to Irori to Bakuchi"
+      type: special
+      tvdbid: 339276
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37151
+      title: Marvel Future Avengers 2nd Season
+      type: tv
+      tvdbid: 330094
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 37154
+      title: Grimms Notes The Animation
+      type: tv
+      tvdbid: 355970
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 37171
       title: Asobi Asobase
       type: tv
@@ -7025,7 +7374,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 37368
-      title: 'Shounen Ashibe: Go! Go! Goma-chan 3'
+      title: "Shounen Ashibe: Go! Go! Goma-chan 3"
       type: tv
       tvdbid: 310027
       tvdbseason: 3
@@ -7097,7 +7446,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 37492
-      title: 'Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio'
+      title: "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio"
       type: special
       tvdbid: 339268
       tvdbseason: 0
@@ -7124,7 +7473,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 37514
-      title: 'Made in Abyss Movie 1: Tabidachi no Yoake'
+      title: "Made in Abyss Movie 1: Tabidachi no Yoake"
       type: movie
       tvdbid: 326109
       tvdbseason: 0
@@ -7133,7 +7482,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 37515
-      title: 'Made in Abyss Movie 2: Hourou Suru Tasogare'
+      title: "Made in Abyss Movie 2: Hourou Suru Tasogare"
       type: movie
       tvdbid: 326109
       tvdbseason: 0
@@ -7151,7 +7500,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 37595
-      title: 'Cardcaptor Sakura: Clear Card-hen Recap'
+      title: "Cardcaptor Sakura: Clear Card-hen Recap"
       type: tv_special
       tvdbid: 70668
       tvdbseason: 0
@@ -7178,7 +7527,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 37884
-      title: 'Golden Kamuy: Barato no Youjinbou/Kaiki! Nazo no Kyodai Tori'
+      title: "Golden Kamuy: Barato no Youjinbou/Kaiki! Nazo no Kyodai Tori"
       type: ova
       tvdbid: 338455
       tvdbseason: 0
@@ -7194,18 +7543,18 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping:
-        - tvdbseason: 1
-          start: 1
-        - tvdbseason: 2
-          start: 7
-        - tvdbseason: 3
-          start: 21
-        - tvdbseason: 4
-          start: 33
-        - tvdbseason: 5
-          start: 41
-        - tvdbseason: 6
-          start: 51
+          - tvdbseason: 1
+            start: 1
+          - tvdbseason: 2
+            start: 7
+          - tvdbseason: 3
+            start: 21
+          - tvdbseason: 4
+            start: 33
+          - tvdbseason: 5
+            start: 41
+          - tvdbseason: 6
+            start: 51
 
     - malid: 37893
       title: Yami Shibai 6
@@ -7217,7 +7566,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 37902
-      title: 'One Piece: Episode of Sorajima'
+      title: "One Piece: Episode of Sorajima"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -7226,7 +7575,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 37916
-      title: 'Uma Musume: Pretty Derby - BNW no Chikai'
+      title: "Uma Musume: Pretty Derby - BNW no Chikai"
       type: special
       tvdbid: 344220
       tvdbseason: 0
@@ -7235,7 +7584,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 37956
-      title: '3D Kanojo: Real Girl 2nd Season'
+      title: "3D Kanojo: Real Girl 2nd Season"
       type: tv
       tvdbid: 342010
       tvdbseason: 2
@@ -7334,7 +7683,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 37991
-      title: 'JoJo no Kimyou na Bouken Part 5: Ougon no Kaze'
+      title: "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
       type: tv
       tvdbid: 262954
       tvdbseason: 4
@@ -7388,7 +7737,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 38040
-      title: 'Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu'
+      title: "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu"
       type: movie
       tvdbid: 303867
       tvdbseason: 0
@@ -7405,6 +7754,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 38149
+      title: Full Metal Panic! Invisible Victory Intermission
+      type: tv_special
+      tvdbid: 78914
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 38163
       title: Iya na Kao sare nagara Opantsu Misete Moraitai 2
       type: ona
@@ -7415,7 +7773,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 38203
-      title: 'The iDOLM@STER SideM: Wake Atte Mini!'
+      title: "The iDOLM@STER SideM: Wake Atte Mini!"
       type: tv
       tvdbid: 353983
       tvdbseason: 1
@@ -7433,7 +7791,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 38234
-      title: 'One Piece Movie 14: Stampede'
+      title: "One Piece Movie 14: Stampede"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -7442,7 +7800,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 38235
-      title: 'Inazuma Eleven: Orion no Kokuin'
+      title: "Inazuma Eleven: Orion no Kokuin"
       type: tv
       tvdbid: 345384
       tvdbseason: 2
@@ -7451,7 +7809,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 38249
-      title: 'Saiki Kusuo no Ψ-nan: Kanketsu-hen'
+      title: "Saiki Kusuo no Ψ-nan: Kanketsu-hen"
       type: tv_special
       tvdbid: 313435
       tvdbseason: 0
@@ -7586,7 +7944,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 38699
-      title: 'Boku no Hero Academia the Movie 1: Futari no Hero Specials'
+      title: "Boku no Hero Academia the Movie 1: Futari no Hero Specials"
       type: special
       tvdbid: 305074
       tvdbseason: 0
@@ -7604,7 +7962,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 38731
-      title: 'Diamond no Ace: Act II'
+      title: "Diamond no Ace: Act II"
       type: tv
       tvdbid: 273005
       tvdbseason: 3
@@ -7613,7 +7971,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 38768
-      title: 'Black Clover: Jump Festa 2018 Special'
+      title: "Black Clover: Jump Festa 2018 Special"
       type: special
       tvdbid: 331753
       tvdbseason: 0
@@ -7640,7 +7998,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 38810
-      title: 'Bleach: Gotei 13 Omake'
+      title: "Bleach: Gotei 13 Omake"
       type: special
       tvdbid: 74796
       tvdbseason: 0
@@ -7649,7 +8007,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 38897
-      title: 'Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm'
+      title: "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm"
       type: movie
       tvdbid: 269319
       tvdbseason: 0
@@ -7694,7 +8052,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39244
-      title: 'Cardfight!! Vanguard: Zoku Koukousei-hen'
+      title: "Cardfight!! Vanguard: Zoku Koukousei-hen"
       type: tv
       tvdbid: 245821
       tvdbseason: 11
@@ -7712,7 +8070,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39457
-      title: 'Shounen Ashibe: Go! Go! Goma-chan 4'
+      title: "Shounen Ashibe: Go! Go! Goma-chan 4"
       type: tv
       tvdbid: 310027
       tvdbseason: 4
@@ -7721,7 +8079,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39468
-      title: 'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen'
+      title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
       type: tv
       tvdbid: 366263
       tvdbseason: 1
@@ -7757,7 +8115,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39535
-      title: 'Mushoku Tensei: Isekai Ittara Honki Dasu'
+      title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
       type: tv
       tvdbid: 371310
       tvdbseason: 1
@@ -7784,7 +8142,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39565
-      title: 'Boku no Hero Academia the Movie 2: Heroes:Rising'
+      title: "Boku no Hero Academia the Movie 2: Heroes:Rising"
       type: movie
       tvdbid: 305074
       tvdbseason: 0
@@ -7793,7 +8151,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39576
-      title: 'Goblin Slayer: Goblin''s Crown'
+      title: "Goblin Slayer: Goblin's Crown"
       type: movie
       tvdbid: 350166
       tvdbseason: 0
@@ -7811,7 +8169,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39597
-      title: 'Sword Art Online: Alicization - War of Underworld'
+      title: "Sword Art Online: Alicization - War of Underworld"
       type: tv
       tvdbid: 259640
       tvdbseason: 4
@@ -7820,7 +8178,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39607
-      title: 'Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki'
+      title: "Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki"
       type: tv_special
       tvdbid: 352408
       tvdbseason: 0
@@ -7829,7 +8187,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39610
-      title: 'ACCA: 13-ku Kansatsu-ka - Regards'
+      title: "ACCA: 13-ku Kansatsu-ka - Regards"
       type: ova
       tvdbid: 319983
       tvdbseason: 0
@@ -7838,7 +8196,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39651
-      title: 'Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi'
+      title: "Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi"
       type: ova
       tvdbid: 307375
       tvdbseason: 0
@@ -7856,7 +8214,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39709
-      title: 'Amanchu!: Upyopyo Dive Tsukkome! Umi no Sekai!'
+      title: "Amanchu!: Upyopyo Dive Tsukkome! Umi no Sekai!"
       type: special
       tvdbid: 304900
       tvdbseason: 0
@@ -7865,7 +8223,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39725
-      title: 'I★Chu: Halfway Through the Idol'
+      title: "I★Chu: Halfway Through the Idol"
       type: tv
       tvdbid: 394678
       tvdbseason: 1
@@ -7937,7 +8295,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39940
-      title: 'Shokugeki no Souma: Shin no Sara'
+      title: "Shokugeki no Souma: Shin no Sara"
       type: tv
       tvdbid: 289909
       tvdbseason: 4
@@ -7973,7 +8331,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40028
-      title: 'Shingeki no Kyojin: The Final Season'
+      title: "Shingeki no Kyojin: The Final Season"
       type: tv
       tvdbid: 267440
       tvdbseason: 4
@@ -8009,7 +8367,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40064
-      title: 'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Past & Future'
+      title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Past & Future"
       type: tv_special
       tvdbid: 289882
       tvdbseason: 0
@@ -8018,7 +8376,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40082
-      title: 'Lupin III: The First'
+      title: "Lupin III: The First"
       type: movie
       tvdbid: 133489
       tvdbseason: 0
@@ -8027,7 +8385,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40167
-      title: 'Cardfight!! Vanguard: Shinemon-hen'
+      title: "Cardfight!! Vanguard: Shinemon-hen"
       type: tv
       tvdbid: 245821
       tvdbseason: 12
@@ -8081,7 +8439,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40389
-      title: 'Uchuu Senkan Yamato 2205: Aratanaru Tabidachi'
+      title: "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi"
       type: ova
       tvdbid: 259675
       tvdbseason: 3
@@ -8099,7 +8457,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40416
-      title: 'Date A Bullet: Dead or Bullet'
+      title: "Date A Bullet: Dead or Bullet"
       type: movie
       tvdbid: 264663
       tvdbseason: 0
@@ -8135,7 +8493,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40496
-      title: 'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou'
+      title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
       type: tv
       tvdbid: 375927
       tvdbseason: 1
@@ -8144,7 +8502,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40497
-      title: 'Mahouka Koukou no Rettousei: Raihousha-hen'
+      title: "Mahouka Koukou no Rettousei: Raihousha-hen"
       type: tv
       tvdbid: 278329
       tvdbseason: 2
@@ -8207,7 +8565,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40540
-      title: 'Sword Art Online: Alicization - War of Underworld 2nd Season'
+      title: "Sword Art Online: Alicization - War of Underworld 2nd Season"
       type: tv
       tvdbid: 259640
       tvdbseason: 4
@@ -8261,7 +8619,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40815
-      title: 'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season'
+      title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"
       type: tv
       tvdbid: 366263
       tvdbseason: 1
@@ -8279,7 +8637,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40852
-      title: 'Dr. Stone: Stone Wars'
+      title: "Dr. Stone: Stone Wars"
       type: tv
       tvdbid: 355774
       tvdbseason: 2
@@ -8288,7 +8646,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40902
-      title: 'Shokugeki no Souma: Gou no Sara'
+      title: "Shokugeki no Souma: Gou no Sara"
       type: tv
       tvdbid: 289909
       tvdbseason: 5
@@ -8306,7 +8664,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40930
-      title: 'Azur Lane: Bisoku Zenshin!'
+      title: "Azur Lane: Bisoku Zenshin!"
       type: tv
       tvdbid: 392491
       tvdbseason: 1
@@ -8324,7 +8682,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 40956
-      title: 'Enen no Shouboutai: Ni no Shou'
+      title: "Enen no Shouboutai: Ni no Shou"
       type: tv
       tvdbid: 355480
       tvdbseason: 2
@@ -8351,7 +8709,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 41061
-      title: 'Heya Camp△: Sauna to Gohan to Sanrin Bike'
+      title: "Heya Camp△: Sauna to Gohan to Sanrin Bike"
       type: special
       tvdbid: 330692
       tvdbseason: 0
@@ -8360,7 +8718,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 41084
-      title: 'Made in Abyss: Retsujitsu no Ougonkyou'
+      title: "Made in Abyss: Retsujitsu no Ougonkyou"
       type: tv
       tvdbid: 326109
       tvdbseason: 2
@@ -8378,7 +8736,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 41109
-      title: 'Log Horizon: Entaku Houkai'
+      title: "Log Horizon: Entaku Houkai"
       type: tv
       tvdbid: 272128
       tvdbseason: 3
@@ -8396,7 +8754,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 41283
-      title: 'Cardfight!! Vanguard Gaiden: If'
+      title: "Cardfight!! Vanguard Gaiden: If"
       type: tv
       tvdbid: 245821
       tvdbseason: 13
@@ -8450,7 +8808,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 41467
-      title: 'Bleach: Sennen Kessen-hen'
+      title: "Bleach: Sennen Kessen-hen"
       type: tv
       tvdbid: 74796
       tvdbseason: 17
@@ -8549,7 +8907,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 42030
-      title: 'Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo'
+      title: "Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo"
       type: movie
       tvdbid: 269319
       tvdbseason: 0
@@ -8558,7 +8916,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 42091
-      title: 'Shingeki no Kyojin: Chronicle'
+      title: "Shingeki no Kyojin: Chronicle"
       type: movie
       tvdbid: 267440
       tvdbseason: 0
@@ -8612,7 +8970,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 42310
-      title: 'Cyberpunk: Edgerunners'
+      title: "Cyberpunk: Edgerunners"
       type: ona
       tvdbid: 384541
       tvdbseason: 1
@@ -8648,7 +9006,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 42423
-      title: 'Date A Bullet: Nightmare or Queen'
+      title: "Date A Bullet: Nightmare or Queen"
       type: movie
       tvdbid: 264663
       tvdbseason: 0
@@ -8657,7 +9015,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 42429
-      title: 'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season'
+      title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"
       type: tv
       tvdbid: 366263
       tvdbseason: 1
@@ -8666,7 +9024,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 42516
-      title: 'Cardfight!! Vanguard: overDress'
+      title: "Cardfight!! Vanguard: overDress"
       type: tv
       tvdbid: 245821
       tvdbseason: 14
@@ -8675,7 +9033,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 42603
-      title: 'Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren'
+      title: "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren"
       type: ona
       tvdbid: 305074
       tvdbseason: 0
@@ -8684,7 +9042,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 42745
-      title: 'Machikado Mazoku: 2-choume'
+      title: "Machikado Mazoku: 2-choume"
       type: tv
       tvdbid: 363143
       tvdbseason: 2
@@ -8702,7 +9060,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 42894
-      title: 'Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha'
+      title: "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha"
       type: movie
       tvdbid: 82788
       tvdbseason: 0
@@ -8720,7 +9078,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 42938
-      title: 'Fruits Basket: The Final'
+      title: "Fruits Basket: The Final"
       type: tv
       tvdbid: 357488
       tvdbseason: 3
@@ -8729,7 +9087,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 42941
-      title: 'Uma Musume: Pretty Derby Season 2'
+      title: "Uma Musume: Pretty Derby Season 2"
       type: tv
       tvdbid: 344220
       tvdbseason: 2
@@ -8765,7 +9123,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 43483
-      title: 'Toaru Kagaku no Railgun T: Motto Marutto Railgun'
+      title: "Toaru Kagaku no Railgun T: Motto Marutto Railgun"
       type: special
       tvdbid: 114921
       tvdbseason: 0
@@ -8792,7 +9150,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 43608
-      title: 'Kaguya-sama wa Kokurasetai: Ultra Romantic'
+      title: "Kaguya-sama wa Kokurasetai: Ultra Romantic"
       type: tv
       tvdbid: 354198
       tvdbseason: 3
@@ -8810,7 +9168,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 43683
-      title: 'Boku no Hero Academia the Movie 2: Heroes:Rising - Epilogue Plus - Yume wo Genjitsu ni'
+      title: "Boku no Hero Academia the Movie 2: Heroes:Rising - Epilogue Plus - Yume wo Genjitsu ni"
       type: special
       tvdbid: 305074
       tvdbseason: 0
@@ -8855,7 +9213,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 44200
-      title: 'Boku no Hero Academia the Movie 3: World Heroes'' Mission'
+      title: "Boku no Hero Academia the Movie 3: World Heroes' Mission"
       type: movie
       tvdbid: 305074
       tvdbseason: 0
@@ -8900,7 +9258,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 44931
-      title: 'Tonikaku Kawaii: SNS'
+      title: "Tonikaku Kawaii: SNS"
       type: ova
       tvdbid: 385077
       tvdbseason: 0
@@ -8936,7 +9294,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 45576
-      title: 'Mushoku Tensei: Isekai Ittara Honki Dasu Part 2'
+      title: "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2"
       type: tv
       tvdbid: 371310
       tvdbseason: 1
@@ -8963,7 +9321,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 45753
-      title: 'Tensei shitara Slime Datta Ken: Kanwa - Hinata Sakaguchi'
+      title: "Tensei shitara Slime Datta Ken: Kanwa - Hinata Sakaguchi"
       type: tv_special
       tvdbid: 352408
       tvdbseason: 0
@@ -8981,7 +9339,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 46431
-      title: 'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.'
+      title: "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku."
       type: ova
       tvdbid: 267435
       tvdbseason: 0
@@ -9017,7 +9375,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 47164
-      title: 'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen'
+      title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen"
       type: tv
       tvdbid: 289882
       tvdbseason: 4
@@ -9026,7 +9384,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 47778
-      title: 'Kimetsu no Yaiba: Yuukaku-hen'
+      title: "Kimetsu no Yaiba: Yuukaku-hen"
       type: tv
       tvdbid: 348545
       tvdbseason: 3
@@ -9062,7 +9420,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48375
-      title: 'Mahouka Koukou no Rettousei: Tsuioku-hen'
+      title: "Mahouka Koukou no Rettousei: Tsuioku-hen"
       type: tv_special
       tvdbid: 278329
       tvdbseason: 0
@@ -9089,7 +9447,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48417
-      title: 'Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou'
+      title: "Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
       type: tv
       tvdbid: 375927
       tvdbseason: 2
@@ -9098,7 +9456,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48418
-      title: 'Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2'
+      title: "Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2"
       type: tv
       tvdbid: 375927
       tvdbseason: 2
@@ -9107,7 +9465,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48438
-      title: 'Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi'
+      title: "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi"
       type: ova
       tvdbid: 316842
       tvdbseason: 0
@@ -9116,7 +9474,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48456
-      title: 'SK∞: Crazy Rock Jam'
+      title: "SK∞: Crazy Rock Jam"
       type: tv_special
       tvdbid: 388858
       tvdbseason: 0
@@ -9143,7 +9501,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48549
-      title: 'Dr. Stone: New World'
+      title: "Dr. Stone: New World"
       type: tv
       tvdbid: 355774
       tvdbseason: 3
@@ -9161,7 +9519,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48583
-      title: 'Shingeki no Kyojin: The Final Season Part 2'
+      title: "Shingeki no Kyojin: The Final Season Part 2"
       type: tv
       tvdbid: 267440
       tvdbseason: 4
@@ -9179,7 +9537,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48661
-      title: 'JoJo no Kimyou na Bouken Part 6: Stone Ocean'
+      title: "JoJo no Kimyou na Bouken Part 6: Stone Ocean"
       type: ona
       tvdbid: 262954
       tvdbseason: 5
@@ -9251,7 +9609,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48829
-      title: 'Ichiban Kuji Natsume Yuujinchou: Nyanko-sensei to Hana Shirabe'
+      title: "Ichiban Kuji Natsume Yuujinchou: Nyanko-sensei to Hana Shirabe"
       type: ona
       tvdbid: 82788
       tvdbseason: 0
@@ -9260,7 +9618,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48862
-      title: 'Cardfight!! Vanguard: overDress Season 2'
+      title: "Cardfight!! Vanguard: overDress Season 2"
       type: tv
       tvdbid: 245821
       tvdbseason: 14
@@ -9341,7 +9699,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49235
-      title: '86 Special Edition: Senya ni Akaku Hinageshi no Saku'
+      title: "86 Special Edition: Senya ni Akaku Hinageshi no Saku"
       type: tv_special
       tvdbid: 378609
       tvdbseason: 0
@@ -9350,7 +9708,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49310
-      title: 'Fruits Basket: Prelude'
+      title: "Fruits Basket: Prelude"
       type: movie
       tvdbid: 357488
       tvdbseason: 0
@@ -9359,7 +9717,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49318
-      title: 'Tensei shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2'
+      title: "Tensei shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2"
       type: tv_special
       tvdbid: 352408
       tvdbseason: 0
@@ -9368,7 +9726,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49357
-      title: 'Star Wars: Visions'
+      title: "Star Wars: Visions"
       type: ona
       tvdbid: 393190
       tvdbseason: 1
@@ -9377,7 +9735,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49363
-      title: 'SK∞ OVA: Extra Part'
+      title: "SK∞ OVA: Extra Part"
       type: ova
       tvdbid: 388858
       tvdbseason: 0
@@ -9440,7 +9798,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49487
-      title: 'Azur Lane: Bisoku Zenshin! Hokorashiki Bokou ni Shukusai wo'
+      title: "Azur Lane: Bisoku Zenshin! Hokorashiki Bokou ni Shukusai wo"
       type: special
       tvdbid: 392491
       tvdbseason: 0
@@ -9494,7 +9852,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49627
-      title: 'Shingeki no Kyojin: The Final Season Specials'
+      title: "Shingeki no Kyojin: The Final Season Specials"
       type: special
       tvdbid: 267440
       tvdbseason: 0
@@ -9512,7 +9870,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49757
-      title: 'Ji Yao Lu: Qicheng Pian'
+      title: "Ji Yao Lu: Qicheng Pian"
       type: ona
       tvdbid: 454517
       tvdbseason: 1
@@ -9548,7 +9906,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49785
-      title: 'Fairy Tail: 100-nen Quest'
+      title: "Fairy Tail: 100-nen Quest"
       type: tv
       tvdbid: 410031
       tvdbseason: 1
@@ -9557,7 +9915,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49818
-      title: 'Guimi Zhi Zhu: Xiaochou Pian'
+      title: "Guimi Zhi Zhu: Xiaochou Pian"
       type: ona
       tvdbid: 464419
       tvdbseason: 1
@@ -9566,7 +9924,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49819
-      title: 'Cardfight!! Vanguard: will+Dress'
+      title: "Cardfight!! Vanguard: will+Dress"
       type: tv
       tvdbid: 245821
       tvdbseason: 15
@@ -9575,7 +9933,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49820
-      title: 'Cardfight!! Vanguard: will+Dress Season 2'
+      title: "Cardfight!! Vanguard: will+Dress Season 2"
       type: tv
       tvdbid: 245821
       tvdbseason: 15
@@ -9620,7 +9978,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49877
-      title: 'Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen'
+      title: "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen"
       type: movie
       tvdbid: 352408
       tvdbseason: 0
@@ -9656,7 +10014,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 49926
-      title: 'Kimetsu no Yaiba: Mugen Ressha-hen'
+      title: "Kimetsu no Yaiba: Mugen Ressha-hen"
       type: tv
       tvdbid: 348545
       tvdbseason: 2
@@ -9701,7 +10059,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50046
-      title: 'Yami Shibai: Furuido'
+      title: "Yami Shibai: Furuido"
       type: ona
       tvdbid: 271591
       tvdbseason: 0
@@ -9719,7 +10077,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50139
-      title: 'Disney Twisted-Wonderland The Animation: Episode of Heartslabyul'
+      title: "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul"
       type: ona
       tvdbid: 411393
       tvdbseason: 1
@@ -9773,7 +10131,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50205
-      title: 'Arknights: Prelude to Dawn'
+      title: "Arknights: Prelude to Dawn"
       type: tv
       tvdbid: 411800
       tvdbseason: 1
@@ -9809,7 +10167,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50325
-      title: 'Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai'
+      title: "Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai"
       type: pv
       tvdbid: 354198
       tvdbseason: 0
@@ -9836,7 +10194,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50360
-      title: 'Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu'
+      title: "Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu"
       type: special
       tvdbid: 371310
       tvdbseason: 0
@@ -9863,7 +10221,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50410
-      title: 'One Piece Film: Red'
+      title: "One Piece Film: Red"
       type: movie
       tvdbid: 81797
       tvdbseason: 0
@@ -9899,7 +10257,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50532
-      title: 'Boku no Hero Academia the Movie 3: World Heroes'' Mission - Tabidachi'
+      title: "Boku no Hero Academia the Movie 3: World Heroes' Mission - Tabidachi"
       type: special
       tvdbid: 305074
       tvdbseason: 0
@@ -9944,7 +10302,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50608
-      title: 'Tokyo Revengers: Seiya Kessen-hen'
+      title: "Tokyo Revengers: Seiya Kessen-hen"
       type: tv
       tvdbid: 393478
       tvdbseason: 2
@@ -9953,7 +10311,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50612
-      title: 'Dr. Stone: Ryuusui'
+      title: "Dr. Stone: Ryuusui"
       type: tv_special
       tvdbid: 355774
       tvdbseason: 0
@@ -9962,7 +10320,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50613
-      title: 'Rurouni Kenshin: Meiji Kenkaku Romantan (2023)'
+      title: "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
       type: tv
       tvdbid: 413578
       tvdbseason: 1
@@ -9980,7 +10338,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50664
-      title: 'Saihate no Paladin: Tetsusabi no Yama no Ou'
+      title: "Saihate no Paladin: Tetsusabi no Yama no Ou"
       type: tv
       tvdbid: 401915
       tvdbseason: 2
@@ -10034,7 +10392,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50738
-      title: 'Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni'
+      title: "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni"
       type: tv
       tvdbid: 389377
       tvdbseason: 2
@@ -10061,7 +10419,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 50855
-      title: 'Yamato yo, Towa ni: Rebel 3199'
+      title: "Yamato yo, Towa ni: Rebel 3199"
       type: movie
       tvdbid: 259675
       tvdbseason: 4
@@ -10097,7 +10455,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51019
-      title: 'Kimetsu no Yaiba: Katanakaji no Sato-hen'
+      title: "Kimetsu no Yaiba: Katanakaji no Sato-hen"
       type: tv
       tvdbid: 348545
       tvdbseason: 4
@@ -10133,7 +10491,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51119
-      title: 'Grisaia: Phantom Trigger'
+      title: "Grisaia: Phantom Trigger"
       type: tv
       tvdbid: 447951
       tvdbseason: 1
@@ -10142,7 +10500,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51122
-      title: 'Ookami to Koushinryou: Merchant Meets the Wise Wolf'
+      title: "Ookami to Koushinryou: Merchant Meets the Wise Wolf"
       type: tv
       tvdbid: 417147
       tvdbseason: 0
@@ -10151,7 +10509,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51179
-      title: 'Mushoku Tensei II: Isekai Ittara Honki Dasu'
+      title: "Mushoku Tensei II: Isekai Ittara Honki Dasu"
       type: tv
       tvdbid: 371310
       tvdbseason: 2
@@ -10178,7 +10536,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51225
-      title: 'Uma Musume: Pretty Derby - 1st Anniversary Special Animation'
+      title: "Uma Musume: Pretty Derby - 1st Anniversary Special Animation"
       type: special
       tvdbid: 344220
       tvdbseason: 0
@@ -10196,7 +10554,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51367
-      title: 'JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2'
+      title: "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2"
       type: ona
       tvdbid: 262954
       tvdbseason: 5
@@ -10241,7 +10599,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51533
-      title: 'Tonikaku Kawaii: Seifuku'
+      title: "Tonikaku Kawaii: Seifuku"
       type: special
       tvdbid: 385077
       tvdbseason: 0
@@ -10250,7 +10608,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51535
-      title: 'Shingeki no Kyojin: The Final Season - Kanketsu-hen'
+      title: "Shingeki no Kyojin: The Final Season - Kanketsu-hen"
       type: tv_special
       tvdbid: 267440
       tvdbseason: 4
@@ -10286,7 +10644,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51761
-      title: 'Uma Musume: Pretty Derby - Road to the Top'
+      title: "Uma Musume: Pretty Derby - Road to the Top"
       type: ona
       tvdbid: 430212
       tvdbseason: 1
@@ -10304,7 +10662,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51794
-      title: 'Nanatsu no Taizai: Mokushiroku no Yonkishi'
+      title: "Nanatsu no Taizai: Mokushiroku no Yonkishi"
       type: tv
       tvdbid: 420018
       tvdbseason: 1
@@ -10313,7 +10671,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51818
-      title: 'Enen no Shouboutai: San no Shou'
+      title: "Enen no Shouboutai: San no Shou"
       type: tv
       tvdbid: 355480
       tvdbseason: 3
@@ -10331,7 +10689,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51991
-      title: 'Amanchu!: Upyopyo Dive Tsukkome! Amazon no Sekai!'
+      title: "Amanchu!: Upyopyo Dive Tsukkome! Amazon no Sekai!"
       type: special
       tvdbid: 304900
       tvdbseason: 0
@@ -10340,7 +10698,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 51995
-      title: 'Hibike! Euphonium: Ensemble Contest-hen'
+      title: "Hibike! Euphonium: Ensemble Contest-hen"
       type: movie
       tvdbid: 289884
       tvdbseason: 0
@@ -10349,7 +10707,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52034
-      title: '[Oshi no Ko]'
+      title: "[Oshi no Ko]"
       type: tv
       tvdbid: 421069
       tvdbseason: 1
@@ -10367,7 +10725,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52079
-      title: 'Cardfight!! Vanguard: will+Dress Season 3'
+      title: "Cardfight!! Vanguard: will+Dress Season 3"
       type: tv
       tvdbid: 245821
       tvdbseason: 15
@@ -10393,8 +10751,17 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 52107
+      title: "Mononoke Movie 1: Karakasa"
+      type: movie
+      tvdbid: 80470
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 52149
-      title: 'Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho'
+      title: "Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho"
       type: special
       tvdbid: 326109
       tvdbseason: 0
@@ -10412,7 +10779,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52198
-      title: 'Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai'
+      title: "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
       type: movie
       tvdbid: 354198
       tvdbseason: 0
@@ -10421,7 +10788,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52199
-      title: 'One Piece: Dai Tettei Kaibou! Kouzuki Oden Densetsu!'
+      title: "One Piece: Dai Tettei Kaibou! Kouzuki Oden Densetsu!"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -10484,7 +10851,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52347
-      title: 'Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su'
+      title: "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su"
       type: tv
       tvdbid: 421855
       tvdbseason: 1
@@ -10493,7 +10860,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52420
-      title: 'Blue Archive: 1.5-shuunen Kinen Short Animation'
+      title: "Blue Archive: 1.5-shuunen Kinen Short Animation"
       type: pv
       tvdbid: 430095
       tvdbseason: 0
@@ -10529,7 +10896,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52635
-      title: 'Kami no Tou: Ouji no Kikan'
+      title: "Kami no Tou: Ouji no Kikan"
       type: tv
       tvdbid: 376729
       tvdbseason: 2
@@ -10574,7 +10941,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52830
-      title: 'Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta'
+      title: "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"
       type: tv
       tvdbid: 423653
       tvdbseason: 1
@@ -10592,7 +10959,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52921
-      title: 'One Piece: Densetsu no Log! Akagami no Shanks!'
+      title: "One Piece: Densetsu no Log! Akagami no Shanks!"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -10628,7 +10995,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53026
-      title: 'Synduality: Noir'
+      title: "Synduality: Noir"
       type: tv
       tvdbid: 424779
       tvdbseason: 1
@@ -10673,7 +11040,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53111
-      title: 'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen'
+      title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen"
       type: tv
       tvdbid: 289882
       tvdbseason: 4
@@ -10691,7 +11058,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53127
-      title: 'Fate/strange Fake: Whispers of Dawn'
+      title: "Fate/strange Fake: Whispers of Dawn"
       type: tv_special
       tvdbid: 436779
       tvdbseason: 0
@@ -10700,7 +11067,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53128
-      title: 'Atri: My Dear Moments'
+      title: "Atri: My Dear Moments"
       type: tv
       tvdbid: 425244
       tvdbseason: 1
@@ -10754,7 +11121,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53235
-      title: 'One Piece: Dai Tettei Kaibou! Gekitou! 5-nin no Shin Sedai'
+      title: "One Piece: Dai Tettei Kaibou! Gekitou! 5-nin no Shin Sedai"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -10763,7 +11130,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53273
-      title: 'JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3'
+      title: "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3"
       type: ona
       tvdbid: 262954
       tvdbseason: 5
@@ -10799,7 +11166,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53407
-      title: 'Bartender: Kami no Glass'
+      title: "Bartender: Kami no Glass"
       type: tv
       tvdbid: 426262
       tvdbseason: 1
@@ -10934,7 +11301,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53526
-      title: 'Uma Musume: Pretty Derby Season 3'
+      title: "Uma Musume: Pretty Derby Season 3"
       type: tv
       tvdbid: 344220
       tvdbseason: 3
@@ -10970,7 +11337,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53670
-      title: 'Blue Archive: Beautiful Day Dreamer'
+      title: "Blue Archive: Beautiful Day Dreamer"
       type: ona
       tvdbid: 430095
       tvdbseason: 0
@@ -11006,7 +11373,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53762
-      title: '#Compass 2.0: Sentou Setsuri Kaiseki System'
+      title: "#Compass 2.0: Sentou Setsuri Kaiseki System"
       type: tv
       tvdbid: 434715
       tvdbseason: 1
@@ -11060,7 +11427,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53881
-      title: 'Arknights: Perish in Frost'
+      title: "Arknights: Perish in Frost"
       type: tv
       tvdbid: 411800
       tvdbseason: 2
@@ -11078,7 +11445,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53888
-      title: 'Spy x Family Movie: Code: White'
+      title: "Spy x Family Movie: Code: White"
       type: movie
       tvdbid: 405920
       tvdbseason: 0
@@ -11087,7 +11454,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53889
-      title: 'Ao no Exorcist: Shimane Illuminati-hen'
+      title: "Ao no Exorcist: Shimane Illuminati-hen"
       type: tv
       tvdbid: 248035
       tvdbseason: 3
@@ -11096,7 +11463,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53890
-      title: 'One Piece: Dai Gekisen Tokushuu! Mugiwara no Ichimi vs. Tobi Roppou'
+      title: "One Piece: Dai Gekisen Tokushuu! Mugiwara no Ichimi vs. Tobi Roppou"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -11114,7 +11481,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53998
-      title: 'Bleach: Sennen Kessen-hen - Ketsubetsu-tan'
+      title: "Bleach: Sennen Kessen-hen - Ketsubetsu-tan"
       type: tv
       tvdbid: 74796
       tvdbseason: 17
@@ -11132,7 +11499,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54041
-      title: '16bit Sensation: Another Layer'
+      title: "16bit Sensation: Another Layer"
       type: tv
       tvdbid: 429055
       tvdbseason: 1
@@ -11150,7 +11517,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54112
-      title: 'Zom 100: Zombie ni Naru made ni Shitai 100 no Koto'
+      title: "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto"
       type: tv
       tvdbid: 429310
       tvdbseason: 1
@@ -11168,7 +11535,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54141
-      title: 'Bastard!! Ankoku no Hakaishin: Jigoku no Chinkonka-hen'
+      title: "Bastard!! Ankoku no Hakaishin: Jigoku no Chinkonka-hen"
       type: ona
       tvdbid: 415677
       tvdbseason: 2
@@ -11177,7 +11544,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54142
-      title: 'Cardfight!! Vanguard: Divinez'
+      title: "Cardfight!! Vanguard: Divinez"
       type: tv
       tvdbid: 245821
       tvdbseason: 16
@@ -11186,7 +11553,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54143
-      title: 'Cardfight!! Vanguard: Divinez Season 2'
+      title: "Cardfight!! Vanguard: Divinez Season 2"
       type: tv
       tvdbid: 245821
       tvdbseason: 16
@@ -11195,7 +11562,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54144
-      title: 'Cardfight!! Vanguard: Divinez Deluxe-hen'
+      title: "Cardfight!! Vanguard: Divinez Deluxe-hen"
       type: tv
       tvdbid: 245821
       tvdbseason: 16
@@ -11204,7 +11571,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54145
-      title: 'Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen'
+      title: "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen"
       type: tv
       tvdbid: 245821
       tvdbseason: 16
@@ -11267,7 +11634,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54565
-      title: 'Tensei shitara Slime Datta Ken: Coleus no Yume'
+      title: "Tensei shitara Slime Datta Ken: Coleus no Yume"
       type: ona
       tvdbid: 352408
       tvdbseason: 0
@@ -11294,7 +11661,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54656
-      title: 'Buddy Daddies Intermission: Cherry-Pick'
+      title: "Buddy Daddies Intermission: Cherry-Pick"
       type: tv_special
       tvdbid: 426294
       tvdbseason: 0
@@ -11357,7 +11724,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54730
-      title: 'Kinnikuman: Kanpeki Choujin Shiso-hen'
+      title: "Kinnikuman: Kanpeki Choujin Shiso-hen"
       type: tv
       tvdbid: 432505
       tvdbseason: 1
@@ -11402,7 +11769,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54769
-      title: 'Sousei no Aquarion: Myth of Emotions'
+      title: "Sousei no Aquarion: Myth of Emotions"
       type: tv
       tvdbid: 456359
       tvdbseason: 1
@@ -11429,7 +11796,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54803
-      title: 'Captain Tsubasa Season 2: Junior Youth-hen'
+      title: "Captain Tsubasa Season 2: Junior Youth-hen"
       type: tv
       tvdbid: 339203
       tvdbseason: 2
@@ -11474,7 +11841,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54854
-      title: 'Shadowverse Flame: Seven Shadows-hen'
+      title: "Shadowverse Flame: Seven Shadows-hen"
       type: tv
       tvdbid: 378522
       tvdbseason: 2
@@ -11510,7 +11877,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54866
-      title: 'Blue Lock: Episode Nagi'
+      title: "Blue Lock: Episode Nagi"
       type: movie
       tvdbid: 408629
       tvdbseason: 0
@@ -11555,7 +11922,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 54918
-      title: 'Tokyo Revengers: Tenjiku-hen'
+      title: "Tokyo Revengers: Tenjiku-hen"
       type: tv
       tvdbid: 393478
       tvdbseason: 3
@@ -11609,7 +11976,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55289
-      title: 'One Piece: Dai Gekisen Tokushuu! Zoro vs. Ookanban!'
+      title: "One Piece: Dai Gekisen Tokushuu! Zoro vs. Ookanban!"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -11645,7 +12012,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55514
-      title: 'Zatsu Tabi: That''s Journey'
+      title: "Zatsu Tabi: That's Journey"
       type: tv
       tvdbid: 435343
       tvdbseason: 1
@@ -11654,7 +12021,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55570
-      title: 'Shin Tennis no Oujisama: U-17 World Cup Semifinal'
+      title: "Shin Tennis no Oujisama: U-17 World Cup Semifinal"
       type: tv
       tvdbid: 254899
       tvdbseason: 4
@@ -11672,7 +12039,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55644
-      title: 'Dr. Stone: New World Part 2'
+      title: "Dr. Stone: New World Part 2"
       type: tv
       tvdbid: 355774
       tvdbseason: 3
@@ -11681,7 +12048,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55647
-      title: 'One Piece: Dai Gekisen Tokushuu! Hangeki Doumei vs. Big Mom'
+      title: "One Piece: Dai Gekisen Tokushuu! Hangeki Doumei vs. Big Mom"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -11708,7 +12075,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55701
-      title: 'Kimetsu no Yaiba: Hashira Geiko-hen'
+      title: "Kimetsu no Yaiba: Hashira Geiko-hen"
       type: tv
       tvdbid: 348545
       tvdbseason: 5
@@ -11717,7 +12084,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55710
-      title: 'Hana-Doll*: Reinterpretation of Flowering'
+      title: "Hana-Doll*: Reinterpretation of Flowering"
       type: tv
       tvdbid: 436336
       tvdbseason: 1
@@ -11735,7 +12102,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55727
-      title: 'Miru: Watashi no Mirai'
+      title: "Miru: Watashi no Mirai"
       type: tv
       tvdbid: 436374
       tvdbseason: 1
@@ -11762,7 +12129,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55772
-      title: 'Golden Kamuy: Saishuushou'
+      title: "Golden Kamuy: Saishuushou"
       type: tv
       tvdbid: 338455
       tvdbseason: 5
@@ -11780,7 +12147,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55791
-      title: '[Oshi no Ko] 2nd Season'
+      title: "[Oshi no Ko] 2nd Season"
       type: tv
       tvdbid: 421069
       tvdbseason: 2
@@ -11789,7 +12156,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55813
-      title: 'Mashle: Shinkakusha Kouho Senbatsu Shiken-hen'
+      title: "Mashle: Shinkakusha Kouho Senbatsu Shiken-hen"
       type: tv
       tvdbid: 421737
       tvdbseason: 2
@@ -11798,7 +12165,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55818
-      title: 'Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz'
+      title: "Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz"
       type: tv_special
       tvdbid: 371310
       tvdbseason: 0
@@ -11843,7 +12210,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55845
-      title: 'Kidou Senshi Gundam: Fukushuu no Requiem'
+      title: "Kidou Senshi Gundam: Fukushuu no Requiem"
       type: ona
       tvdbid: 436837
       tvdbseason: 1
@@ -11852,7 +12219,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55855
-      title: 'Kuroshitsuji: Kishuku Gakkou-hen'
+      title: "Kuroshitsuji: Kishuku Gakkou-hen"
       type: tv
       tvdbid: 83996
       tvdbseason: 4
@@ -11870,7 +12237,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55888
-      title: 'Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2'
+      title: "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2"
       type: tv
       tvdbid: 371310
       tvdbseason: 2
@@ -11879,7 +12246,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55889
-      title: 'Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi'
+      title: "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi"
       type: ova
       tvdbid: 418665
       tvdbseason: 0
@@ -11888,7 +12255,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55994
-      title: 'Sword Art Online Alternative: Gun Gale Online II'
+      title: "Sword Art Online Alternative: Gun Gale Online II"
       type: tv
       tvdbid: 335815
       tvdbseason: 2
@@ -11915,7 +12282,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56009
-      title: 'Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku'
+      title: "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku"
       type: tv
       tvdbid: 437266
       tvdbseason: 1
@@ -11978,7 +12345,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56242
-      title: 'Sengoku Youko: Yonaoshi Kyoudai-hen'
+      title: "Sengoku Youko: Yonaoshi Kyoudai-hen"
       type: tv
       tvdbid: 438151
       tvdbseason: 1
@@ -12050,7 +12417,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56613
-      title: 'Azur Lane: Bisoku Zenshin! Ni!!'
+      title: "Azur Lane: Bisoku Zenshin! Ni!!"
       type: tv
       tvdbid: 392491
       tvdbseason: 2
@@ -12059,7 +12426,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56646
-      title: 'Hokuto no Ken: Fist of the North Star'
+      title: "Hokuto no Ken: Fist of the North Star"
       type: tv
       tvdbid: 465216
       tvdbseason: 1
@@ -12095,7 +12462,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56671
-      title: 'Burn the Witch #0.8'
+      title: "Burn the Witch #0.8"
       type: tv_special
       tvdbid: 389459
       tvdbseason: 0
@@ -12104,7 +12471,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56685
-      title: 'Boku no Hero Academia: UA Heroes Battle'
+      title: "Boku no Hero Academia: UA Heroes Battle"
       type: movie
       tvdbid: 305074
       tvdbseason: 0
@@ -12149,7 +12516,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56731
-      title: 'Synduality: Noir Part 2'
+      title: "Synduality: Noir Part 2"
       type: tv
       tvdbid: 424779
       tvdbseason: 1
@@ -12185,7 +12552,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56784
-      title: 'Bleach: Sennen Kessen-hen - Soukoku-tan'
+      title: "Bleach: Sennen Kessen-hen - Soukoku-tan"
       type: tv
       tvdbid: 74796
       tvdbseason: 17
@@ -12194,7 +12561,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56835
-      title: 'Code Geass: Dakkan no Rozé'
+      title: "Code Geass: Dakkan no Rozé"
       type: ona
       tvdbid: 443905
       tvdbseason: 1
@@ -12221,7 +12588,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56854
-      title: 'Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga'
+      title: "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga"
       type: tv
       tvdbid: 440502
       tvdbseason: 1
@@ -12257,7 +12624,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56906
-      title: 'Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (TV Special)'
+      title: "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (TV Special)"
       type: tv_special
       tvdbid: 423653
       tvdbseason: 0
@@ -12275,7 +12642,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56948
-      title: 'Boku no Kokoro no Yabai Yatsu: Twi-Yaba'
+      title: "Boku no Kokoro no Yabai Yatsu: Twi-Yaba"
       type: ona
       tvdbid: 422981
       tvdbseason: 0
@@ -12329,7 +12696,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57066
-      title: 'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen'
+      title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen"
       type: tv
       tvdbid: 289882
       tvdbseason: 5
@@ -12437,7 +12804,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57380
-      title: 'Isekai Yururi Kikou: Kosodate shinagara Boukensha shimasu'
+      title: "Isekai Yururi Kikou: Kosodate shinagara Boukensha shimasu"
       type: tv
       tvdbid: 442839
       tvdbseason: 1
@@ -12455,7 +12822,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57466
-      title: 'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo'
+      title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo"
       type: tv
       tvdbid: 366263
       tvdbseason: 1
@@ -12491,7 +12858,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57554
-      title: 'Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran'
+      title: "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran"
       type: tv
       tvdbid: 413578
       tvdbseason: 2
@@ -12500,7 +12867,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57555
-      title: 'Chainsaw Man Movie: Reze-hen'
+      title: "Chainsaw Man Movie: Reze-hen"
       type: movie
       tvdbid: 397934
       tvdbseason: 0
@@ -12509,7 +12876,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57556
-      title: 'One Piece: Dai Tokushuu! Momonosuke no Mei Shougun e no Michi'
+      title: "One Piece: Dai Tokushuu! Momonosuke no Mei Shougun e no Michi"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -12545,7 +12912,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57592
-      title: 'Dr. Stone: Science Future'
+      title: "Dr. Stone: Science Future"
       type: tv
       tvdbid: 355774
       tvdbseason: 4
@@ -12554,7 +12921,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57605
-      title: 'Shinobanai! Crypto Ninja Sakuya: Ni no Maki'
+      title: "Shinobanai! Crypto Ninja Sakuya: Ni no Maki"
       type: tv
       tvdbid: 435644
       tvdbseason: 2
@@ -12572,7 +12939,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57614
-      title: 'Shadowverse Flame: Arc-hen'
+      title: "Shadowverse Flame: Arc-hen"
       type: tv
       tvdbid: 378522
       tvdbseason: 2
@@ -12617,7 +12984,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57647
-      title: 'Uma Musume: Pretty Derby - Shin Jidai no Tobira'
+      title: "Uma Musume: Pretty Derby - Shin Jidai no Tobira"
       type: movie
       tvdbid: 353579
       tvdbseason: 1
@@ -12635,7 +13002,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57658
-      title: 'Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen'
+      title: "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen"
       type: tv
       tvdbid: 377543
       tvdbseason: 3
@@ -12662,7 +13029,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57796
-      title: 'Touhai: Ura Rate Mahjong Touhairoku'
+      title: "Touhai: Ura Rate Mahjong Touhairoku"
       type: tv
       tvdbid: 444559
       tvdbseason: 1
@@ -12707,7 +13074,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 57864
-      title: 'Monogatari Series: Off & Monster Season'
+      title: "Monogatari Series: Off & Monster Season"
       type: ona
       tvdbid: 102261
       tvdbseason: 6
@@ -12878,7 +13245,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58196
-      title: 'Koneko no Chi: Ponponraa Natsuyasumi'
+      title: "Koneko no Chi: Ponponraa Natsuyasumi"
       type: ona
       tvdbid: 81844
       tvdbseason: 5
@@ -12914,7 +13281,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58224
-      title: 'Ore dake Level Up na Ken: How to Get Stronger'
+      title: "Ore dake Level Up na Ken: How to Get Stronger"
       type: tv_special
       tvdbid: 389597
       tvdbseason: 0
@@ -12950,7 +13317,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58275
-      title: 'Duel Masters LOST: Tsuioku no Suishou'
+      title: "Duel Masters LOST: Tsuioku no Suishou"
       type: ona
       tvdbid: 446908
       tvdbseason: 1
@@ -13031,7 +13398,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58488
-      title: 'Sengoku Youko: Senma Konton-hen'
+      title: "Sengoku Youko: Senma Konton-hen"
       type: tv
       tvdbid: 438151
       tvdbseason: 2
@@ -13076,7 +13443,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58511
-      title: 'Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season'
+      title: "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season"
       type: tv
       tvdbid: 420018
       tvdbseason: 2
@@ -13103,7 +13470,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58516
-      title: 'Ao no Exorcist: Yuki no Hate-hen'
+      title: "Ao no Exorcist: Yuki no Hate-hen"
       type: tv
       tvdbid: 248035
       tvdbseason: 4
@@ -13121,7 +13488,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58567
-      title: 'Ore dake Level Up na Ken Season 2: Arise from the Shadow'
+      title: "Ore dake Level Up na Ken Season 2: Arise from the Shadow"
       type: tv
       tvdbid: 389597
       tvdbseason: 2
@@ -13130,7 +13497,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58572
-      title: 'Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season'
+      title: "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season"
       type: tv
       tvdbid: 421855
       tvdbseason: 2
@@ -13166,7 +13533,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58663
-      title: 'One Piece: Innen no Log! Mugiwara no Ichimi to Cipher Pol'
+      title: "One Piece: Innen no Log! Mugiwara no Ichimi to Cipher Pol"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -13202,7 +13569,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58749
-      title: 'Arknights: Rise from Ember'
+      title: "Arknights: Rise from Ember"
       type: tv
       tvdbid: 411800
       tvdbseason: 3
@@ -13337,7 +13704,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58877
-      title: 'Diamond no Ace: Act II Second Season'
+      title: "Diamond no Ace: Act II Second Season"
       type: tv
       tvdbid: 273005
       tvdbseason: 4
@@ -13418,7 +13785,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 58957
-      title: '9: Ruler''s Crown'
+      title: "9: Ruler's Crown"
       type: tv
       tvdbid: 450624
       tvdbseason: 1
@@ -13490,7 +13857,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59029
-      title: 'One Piece: Kizamareru Rekishi! Gekidou no Shinkyuu Yonkou!'
+      title: "One Piece: Kizamareru Rekishi! Gekidou no Shinkyuu Yonkou!"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -13535,7 +13902,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59070
-      title: 'Guilty Gear Strive: Dual Rulers'
+      title: "Guilty Gear Strive: Dual Rulers"
       type: tv
       tvdbid: 451195
       tvdbseason: 1
@@ -13571,7 +13938,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59130
-      title: 'Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku'
+      title: "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku"
       type: tv
       tvdbid: 451504
       tvdbseason: 1
@@ -13706,7 +14073,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59193
-      title: 'Mushoku Tensei III: Isekai Ittara Honki Dasu'
+      title: "Mushoku Tensei III: Isekai Ittara Honki Dasu"
       type: tv
       tvdbid: 371310
       tvdbseason: 3
@@ -13733,7 +14100,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59205
-      title: 'Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha'
+      title: "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha"
       type: tv
       tvdbid: 451793
       tvdbseason: 1
@@ -13751,7 +14118,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59226
-      title: 'Ao no Exorcist: Yosuga-hen'
+      title: "Ao no Exorcist: Yosuga-hen"
       type: tv
       tvdbid: 248035
       tvdbseason: 5
@@ -13760,7 +14127,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59228
-      title: 'Kuroshitsuji: Midori no Majo-hen'
+      title: "Kuroshitsuji: Midori no Majo-hen"
       type: tv
       tvdbid: 83996
       tvdbseason: 5
@@ -13769,7 +14136,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59229
-      title: 'Enen no Shouboutai: San no Shou Part 2'
+      title: "Enen no Shouboutai: San no Shou Part 2"
       type: tv
       tvdbid: 355480
       tvdbseason: 3
@@ -13778,7 +14145,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59265
-      title: 'Magic Maker: Isekai Mahou no Tsukurikata'
+      title: "Magic Maker: Isekai Mahou no Tsukurikata"
       type: tv
       tvdbid: 452091
       tvdbseason: 1
@@ -13841,7 +14208,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59369
-      title: 'Lycoris Recoil: Friends Are Thieves of Time.'
+      title: "Lycoris Recoil: Friends Are Thieves of Time."
       type: ona
       tvdbid: 414057
       tvdbseason: 0
@@ -13876,6 +14243,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59408
+      title: "Mononoke Movie 2: Hinezumi"
+      type: movie
+      tvdbid: 80470
+      tvdbseason: 0
+      start: 5
+      useMapping: false
+      animeMapping: []
+
     - malid: 59421
       title: Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru
       type: tv
@@ -13886,7 +14262,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59424
-      title: 'Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru'
+      title: "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru"
       type: tv
       tvdbid: 452713
       tvdbseason: 1
@@ -13904,7 +14280,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59435
-      title: 'Undead Unluck: Winter-hen'
+      title: "Undead Unluck: Winter-hen"
       type: tv_special
       tvdbid: 423030
       tvdbseason: 0
@@ -13940,7 +14316,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59458
-      title: 'Duel Masters LOST: Gekka no Shinigami'
+      title: "Duel Masters LOST: Gekka no Shinigami"
       type: ona
       tvdbid: 446908
       tvdbseason: 2
@@ -13949,7 +14325,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59459
-      title: 'Silent Witch: Chinmoku no Majo no Kakushigoto'
+      title: "Silent Witch: Chinmoku no Majo no Kakushigoto"
       type: tv
       tvdbid: 452832
       tvdbseason: 1
@@ -13994,7 +14370,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59490
-      title: 'Kaijuu 8-gou: Hoshina no Kyuujitsu'
+      title: "Kaijuu 8-gou: Hoshina no Kyuujitsu"
       type: special
       tvdbid: 423075
       tvdbseason: 0
@@ -14003,7 +14379,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59499
-      title: 'Asatir 2: Mirai no Mukashi Banashi'
+      title: "Asatir 2: Mirai no Mukashi Banashi"
       type: tv
       tvdbid: 376126
       tvdbseason: 2
@@ -14057,7 +14433,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59571
-      title: 'Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack'
+      title: "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack"
       type: movie
       tvdbid: 267440
       tvdbseason: 0
@@ -14075,7 +14451,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59596
-      title: 'One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!'
+      title: "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -14129,7 +14505,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59636
-      title: 'Uma Musume: Cinderella Gray'
+      title: "Uma Musume: Cinderella Gray"
       type: tv
       tvdbid: 453673
       tvdbseason: 1
@@ -14147,7 +14523,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59662
-      title: 'Long Zu II: Daowangzhe Zhi Tong'
+      title: "Long Zu II: Daowangzhe Zhi Tong"
       type: ona
       tvdbid: 423688
       tvdbseason: 2
@@ -14174,7 +14550,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59708
-      title: 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki'
+      title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki"
       type: tv
       tvdbid: 329822
       tvdbseason: 4
@@ -14273,7 +14649,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59833
-      title: 'Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage'
+      title: "Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage"
       type: ova
       tvdbid: 303867
       tvdbseason: 0
@@ -14309,7 +14685,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59853
-      title: 'Dark Moon: Tsuki no Saidan'
+      title: "Dark Moon: Tsuki no Saidan"
       type: tv
       tvdbid: 454526
       tvdbseason: 1
@@ -14318,7 +14694,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59865
-      title: 'Shinobanai! Crypto Ninja Sakuya: San no Maki'
+      title: "Shinobanai! Crypto Ninja Sakuya: San no Maki"
       type: tv
       tvdbid: 435644
       tvdbseason: 3
@@ -14336,7 +14712,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59889
-      title: 'Kidou Keisatsu Patlabor: EZY'
+      title: "Kidou Keisatsu Patlabor: EZY"
       type: movie
       tvdbid: 462547
       tvdbseason: 1
@@ -14363,7 +14739,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59908
-      title: 'One Piece: Yuruganu Seigi! Kaigun no Hokoritakaki Log!'
+      title: "One Piece: Yuruganu Seigi! Kaigun no Hokoritakaki Log!"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -14372,7 +14748,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59914
-      title: 'Kinnikuman: Kanpeki Choujin Shiso-hen Season 2'
+      title: "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2"
       type: tv
       tvdbid: 432505
       tvdbseason: 2
@@ -14381,7 +14757,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59928
-      title: 'Ookami to Koushinryou: Merchant Meets the Wise Wolf 2nd Season'
+      title: "Ookami to Koushinryou: Merchant Meets the Wise Wolf 2nd Season"
       type: tv
       tvdbid: 417147
       tvdbseason: 2
@@ -14399,7 +14775,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59945
-      title: 'Sengoku Youko: Senma Konton-hen Recap'
+      title: "Sengoku Youko: Senma Konton-hen Recap"
       type: tv_special
       tvdbid: 438151
       tvdbseason: 0
@@ -14453,7 +14829,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59989
-      title: 'Kami no Tou: Koubou-sen'
+      title: "Kami no Tou: Koubou-sen"
       type: tv
       tvdbid: 376729
       tvdbseason: 2
@@ -14462,7 +14838,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59990
-      title: 'Sengoku Youko: Yonaoshi Kyoudai-hen Recap'
+      title: "Sengoku Youko: Yonaoshi Kyoudai-hen Recap"
       type: tv_special
       tvdbid: 438151
       tvdbseason: 0
@@ -14471,7 +14847,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60009
-      title: 'Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.'
+      title: "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara."
       type: tv
       tvdbid: 455062
       tvdbseason: 1
@@ -14516,7 +14892,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60057
-      title: 'Chao Neng Lifang: Chaofan Pian'
+      title: "Chao Neng Lifang: Chaofan Pian"
       type: ona
       tvdbid: 461311
       tvdbseason: 1
@@ -14525,7 +14901,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60058
-      title: '[Oshi no Ko] 3rd Season'
+      title: "[Oshi no Ko] 3rd Season"
       type: tv
       tvdbid: 421069
       tvdbseason: 3
@@ -14570,7 +14946,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60098
-      title: 'Boku no Hero Academia: Final Season'
+      title: "Boku no Hero Academia: Final Season"
       type: tv
       tvdbid: 305074
       tvdbseason: 8
@@ -14597,7 +14973,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60140
-      title: 'Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi'
+      title: "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi"
       type: tv
       tvdbid: 455638
       tvdbseason: 1
@@ -14687,7 +15063,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60253
-      title: 'Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku'
+      title: "Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku"
       type: tv
       tvdbid: 456381
       tvdbseason: 1
@@ -14741,7 +15117,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60294
-      title: 'Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi'
+      title: "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi"
       type: tv_special
       tvdbid: 447240
       tvdbseason: 0
@@ -14804,7 +15180,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60336
-      title: 'Star Wars: Visions Volume 3'
+      title: "Star Wars: Visions Volume 3"
       type: ona
       tvdbid: 393190
       tvdbseason: 3
@@ -14822,7 +15198,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60348
-      title: 'Disney Twisted-Wonderland The Animation: Episode of Savanaclaw'
+      title: "Disney Twisted-Wonderland The Animation: Episode of Savanaclaw"
       type: ona
       tvdbid: 411393
       tvdbseason: 2
@@ -14831,7 +15207,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60349
-      title: 'Disney Twisted-Wonderland The Animation: Episode of Octavinelle'
+      title: "Disney Twisted-Wonderland The Animation: Episode of Octavinelle"
       type: ona
       tvdbid: 411393
       tvdbseason: 3
@@ -14867,7 +15243,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60395
-      title: 'Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari'
+      title: "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari"
       type: tv
       tvdbid: 457201
       tvdbseason: 1
@@ -14921,7 +15297,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60446
-      title: 'Masuda Kousuke Gekijou: Gag Manga Biyori Go'
+      title: "Masuda Kousuke Gekijou: Gag Manga Biyori Go"
       type: tv
       tvdbid: 83807
       tvdbseason: 5
@@ -14930,7 +15306,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60449
-      title: 'Kidou Senshi Gundam: GQuuuuuuX'
+      title: "Kidou Senshi Gundam: GQuuuuuuX"
       type: tv
       tvdbid: 457473
       tvdbseason: 1
@@ -14939,7 +15315,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60460
-      title: 'Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru'
+      title: "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru"
       type: tv
       tvdbid: 457532
       tvdbseason: 1
@@ -15119,7 +15495,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60593
-      title: 'Vigilante: Boku no Hero Academia Illegals'
+      title: "Vigilante: Boku no Hero Academia Illegals"
       type: tv
       tvdbid: 458058
       tvdbseason: 1
@@ -15164,7 +15540,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60637
-      title: 'Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance'
+      title: "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance"
       type: tv
       tvdbid: 458309
       tvdbseason: 1
@@ -15173,19 +15549,19 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60651
-      title: 'Yu-Gi-Oh! Card Game: The Chronicles'
+      title: "Yu-Gi-Oh! Card Game: The Chronicles"
       type: ona
       tvdbid: 466457
       tvdbseason: 0
       start: 0
       useMapping: true
       animeMapping:
-        - tvdbseason: 1
-          start: 0
-        - tvdbseason: 2
-          start: 3
-        - tvdbseason: 3
-          start: 9
+          - tvdbseason: 1
+            start: 0
+          - tvdbseason: 2
+            start: 3
+          - tvdbseason: 3
+            start: 9
 
     - malid: 60658
       title: Hibi wa Sugiredo Meshi Umashi
@@ -15206,7 +15582,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60692
-      title: 'Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru'
+      title: "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru"
       type: tv
       tvdbid: 458508
       tvdbseason: 1
@@ -15395,7 +15771,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61084
-      title: 'Hikuidori: Ushuu Boro Tobi-gumi'
+      title: "Hikuidori: Ushuu Boro Tobi-gumi"
       type: tv
       tvdbid: 460693
       tvdbseason: 1
@@ -15404,7 +15780,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61092
-      title: 'Himitsu no AiPri: Ring-hen'
+      title: "Himitsu no AiPri: Ring-hen"
       type: tv
       tvdbid: 445261
       tvdbseason: 2
@@ -15431,7 +15807,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61119
-      title: 'Duel Masters LOST: Boukyaku no Taiyou'
+      title: "Duel Masters LOST: Boukyaku no Taiyou"
       type: ona
       tvdbid: 446908
       tvdbseason: 3
@@ -15512,7 +15888,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61184
-      title: 'Nohara Hiroshi: Hiru Meshi no Ryuugi'
+      title: "Nohara Hiroshi: Hiru Meshi no Ryuugi"
       type: tv
       tvdbid: 461372
       tvdbseason: 1
@@ -15544,6 +15920,15 @@ AnimeMap:
       tvdbid: 393810
       tvdbseason: 3
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61202
+      title: "Mononoke Movie 3: Hebigami"
+      type: movie
+      tvdbid: 80470
+      tvdbseason: 0
+      start: 6
       useMapping: false
       animeMapping: []
 
@@ -15593,7 +15978,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61238
-      title: 'Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku'
+      title: "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku"
       type: tv
       tvdbid: 465527
       tvdbseason: 1
@@ -15611,7 +15996,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61240
-      title: 'Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den'
+      title: "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den"
       type: tv
       tvdbid: 461544
       tvdbseason: 1
@@ -15638,7 +16023,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61271
-      title: 'NEET Kunoichi to Nazeka Dousei Hajimemashita: Nazeka Beach de Dogimagi Shimashita/Nazeka Moto Koutou Youma to Nakayoku Narimashita'
+      title: "NEET Kunoichi to Nazeka Dousei Hajimemashita: Nazeka Beach de Dogimagi Shimashita/Nazeka Moto Koutou Youma to Nakayoku Narimashita"
       type: ona
       tvdbid: 445965
       tvdbseason: 0
@@ -15683,7 +16068,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61322
-      title: 'Dr. Stone: Science Future Part 2'
+      title: "Dr. Stone: Science Future Part 2"
       type: tv
       tvdbid: 355774
       tvdbseason: 4
@@ -15701,7 +16086,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61333
-      title: 'Ao no Miburo: Serizawa Ansatsu-hen'
+      title: "Ao no Miburo: Serizawa Ansatsu-hen"
       type: tv
       tvdbid: 439531
       tvdbseason: 2
@@ -15719,7 +16104,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61338
-      title: 'Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 3rd Season'
+      title: "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 3rd Season"
       type: tv
       tvdbid: 421855
       tvdbseason: 3
@@ -15773,7 +16158,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61443
-      title: 'Shunkashuutou Daikousha: Haru no Mai'
+      title: "Shunkashuutou Daikousha: Haru no Mai"
       type: tv
       tvdbid: 462446
       tvdbseason: 1
@@ -15782,7 +16167,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61469
-      title: 'Steel Ball Run: JoJo no Kimyou na Bouken'
+      title: "Steel Ball Run: JoJo no Kimyou na Bouken"
       type: ona
       tvdbid: 262954
       tvdbseason: 6
@@ -15818,7 +16203,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61549
-      title: 'Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni'
+      title: "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni"
       type: tv
       tvdbid: 462789
       tvdbseason: 1
@@ -15863,7 +16248,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61674
-      title: 'One Piece: Dr. Chopper no Bouken Karte - Chichi to Musume no Ballad'
+      title: "One Piece: Dr. Chopper no Bouken Karte - Chichi to Musume no Ballad"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -15890,7 +16275,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61773
-      title: 'Let''s Play: Quest-darake no My Life'
+      title: "Let's Play: Quest-darake no My Life"
       type: tv
       tvdbid: 440965
       tvdbseason: 1
@@ -15935,7 +16320,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61834
-      title: 'Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga'
+      title: "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga"
       type: ova
       tvdbid: 338455
       tvdbseason: 0
@@ -15980,7 +16365,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61892
-      title: 'One Piece: Dr. Chopper no Bouken Karte - Shinyuu-tachi no Crossroad'
+      title: "One Piece: Dr. Chopper no Bouken Karte - Shinyuu-tachi no Crossroad"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -15998,7 +16383,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61903
-      title: 'Kaguya-sama wa Kokurasetai: Otona e no Kaidan'
+      title: "Kaguya-sama wa Kokurasetai: Otona e no Kaidan"
       type: tv_special
       tvdbid: 354198
       tvdbseason: 0
@@ -16025,7 +16410,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61930
-      title: 'Uma Musume: Cinderella Gray Part 2'
+      title: "Uma Musume: Cinderella Gray Part 2"
       type: tv
       tvdbid: 453673
       tvdbseason: 1
@@ -16043,7 +16428,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61942
-      title: 'Vigilante: Boku no Hero Academia Illegals 2nd Season'
+      title: "Vigilante: Boku no Hero Academia Illegals 2nd Season"
       type: tv
       tvdbid: 458058
       tvdbseason: 2
@@ -16079,7 +16464,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61990
-      title: 'Cyberpunk: Edgerunners 2'
+      title: "Cyberpunk: Edgerunners 2"
       type: ona
       tvdbid: 384541
       tvdbseason: 2
@@ -16133,7 +16518,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62066
-      title: 'Monster Strike: Deadverse Reloaded'
+      title: "Monster Strike: Deadverse Reloaded"
       type: tv
       tvdbid: 465794
       tvdbseason: 1
@@ -16169,7 +16554,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62126
-      title: 'SI-VIS: The Sound of Heroes'
+      title: "SI-VIS: The Sound of Heroes"
       type: tv
       tvdbid: 466237
       tvdbseason: 1
@@ -16277,7 +16662,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62349
-      title: 'Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite: Kooriyama Yui Sonogo...'
+      title: "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite: Kooriyama Yui Sonogo..."
       type: special
       tvdbid: 460340
       tvdbseason: 0
@@ -16286,7 +16671,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62359
-      title: 'Towa no Yuugure: Asa wo Kokoro ni, Ichi, Ni to Kazoe yo'
+      title: "Towa no Yuugure: Asa wo Kokoro ni, Ichi, Ni to Kazoe yo"
       type: tv_special
       tvdbid: 465214
       tvdbseason: 0
@@ -16322,7 +16707,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62394
-      title: 'One Piece: Dr. Chopper no Bouken Karte - Hokoritakaki Gigant Dream'
+      title: "One Piece: Dr. Chopper no Bouken Karte - Hokoritakaki Gigant Dream"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -16340,7 +16725,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62422
-      title: 'Silent Witch: Chinmoku no Majo no Kakushigoto - Sennyuu Kiroku'
+      title: "Silent Witch: Chinmoku no Majo no Kakushigoto - Sennyuu Kiroku"
       type: tv_special
       tvdbid: 452832
       tvdbseason: 0
@@ -16367,7 +16752,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62435
-      title: 'Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha'
+      title: "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
       type: tv
       tvdbid: 467882
       tvdbseason: 1
@@ -16421,7 +16806,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62513
-      title: 'Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou'
+      title: "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou"
       type: tv
       tvdbid: 451793
       tvdbseason: 2
@@ -16430,7 +16815,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62521
-      title: '#Kanagawa ni Sunderu Elf'
+      title: "#Kanagawa ni Sunderu Elf"
       type: tv
       tvdbid: 467330
       tvdbseason: 1
@@ -16457,7 +16842,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62568
-      title: 'Dr. Stone: Science Future Part 3'
+      title: "Dr. Stone: Science Future Part 3"
       type: tv
       tvdbid: 355774
       tvdbseason: 4
@@ -16466,7 +16851,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62593
-      title: 'One Piece: Dr. Chopper no Bouken Karte - Uragirimono-tachi no Masquerade'
+      title: "One Piece: Dr. Chopper no Bouken Karte - Uragirimono-tachi no Masquerade"
       type: tv_special
       tvdbid: 81797
       tvdbseason: 0
@@ -16502,7 +16887,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62649
-      title: 'Cardfight!! Vanguard: Divinez Genma Seisen-hen'
+      title: "Cardfight!! Vanguard: Divinez Genma Seisen-hen"
       type: tv
       tvdbid: 245821
       tvdbseason: 16
@@ -16529,7 +16914,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62852
-      title: 'Ghost Concert: Missing Songs'
+      title: "Ghost Concert: Missing Songs"
       type: tv
       tvdbid: 469599
       tvdbseason: 1
@@ -16538,7 +16923,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62856
-      title: 'Nijusseiki Denki Mokuroku: Eureka Evrika'
+      title: "Nijusseiki Denki Mokuroku: Eureka Evrika"
       type: tv
       tvdbid: 407704
       tvdbseason: 1
@@ -16547,7 +16932,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62876
-      title: 'Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita'
+      title: "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita"
       type: tv
       tvdbid: 470406
       tvdbseason: 1
@@ -16574,7 +16959,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62897
-      title: 'Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani'
+      title: "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani"
       type: ona
       tvdbid: 467751
       tvdbseason: 1
@@ -16655,7 +17040,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62987
-      title: 'Hokuto no Ken: Kenougun Zako-tachi no Banka'
+      title: "Hokuto no Ken: Kenougun Zako-tachi no Banka"
       type: tv
       tvdbid: 468079
       tvdbseason: 1
@@ -16709,7 +17094,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63130
-      title: 'Boku no Hero Academia: More'
+      title: "Boku no Hero Academia: More"
       type: tv_special
       tvdbid: 305074
       tvdbseason: 0
@@ -16736,7 +17121,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63304
-      title: 'Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru'
+      title: "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru"
       type: tv
       tvdbid: 472764
       tvdbseason: 1
@@ -16862,7 +17247,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63503
-      title: 'Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita'
+      title: "Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita"
       type: special
       tvdbid: 456099
       tvdbseason: 0
@@ -16871,7 +17256,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63508
-      title: 'Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku'
+      title: "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku"
       type: tv
       tvdbid: 474303
       tvdbseason: 1
